@@ -1,0 +1,2343 @@
+﻿file,folder,company,extraction,cgpa,emails,education,experience,projects,positions,achievements,skills,courses,extracurricular,certifications,unlabeled
+apple_software (1) .pdf,2024-25,Apple,OCR p[1]+text,,,,"1. Academic Intern May 2020 - Jul 2020
+Persistent Systems, Pune Internship
+
+o Recommendation Systems and Image Recognition","1. Comprehensive Analysis of Adapter Efficiency July 2022-May2023
+
+Guide: Prof. Mitesh Khapra M.S. Project, 11T Madras
+
+o Although adapters have been positioned as a parameter-efficient fine-tuning (PEFT) strategy, their impact on
+training /deployment efficiency and maintainability /extensibility has not been thoroughly investigated. In this paper,
+we take a step back to better understand this aspect of PEFT approaches.
+
+© The paper was published at the ES-FoMo@ICML-2023, USA
+
+2. Extending Large Language Model for the Indian language April 2023 - Present
+
+Guide: Prof: Mitesh Khapra M.S. Project
+
+© Pretraining or fine-tuning a large language model requires a lot of computational resources; this project aims to
+extend the pretrained LLM to Indian Language with a low computational cost.
+
+© Investigated methods for expanding vocabulary, improved strategies for initializing the word embedding layer and
+Language model head, and efficient training.
+
+1. A Neural Network from scratch
+Faculty: Prof. Mitesh Khapra, Team size : 2 Deep Learning
+
+© Created a deep learning model from scratch using only NumPy and Pandas. Includes the implementation of
+backpropagation , various optimization algorithm, error and activation function.
+
+2. Convolutional Neural Network
+
+Faculty: Prof. Mitesh Khapra, Team size : 2 Deep Learning
+
+© Built CNN model from scratch. Performed hyperparameter tuning, visualized filter, kernels, and guided backpropagation.
+YOLOV3 was specifically tuned for fire detection applications.
+
+3. Transliteration System using Recurrent Neural Network (RNN)
+
+Faculty: Prof. Mitesh Khapra, Team size : 2 Deep Learning
+
+© Modelled a sequence-to-sequence learning solution utilizing RNNs and compared the performance of different cells
+including Vanilla RNN, LSTM, and GRU.
+
+4. Understanding and Implementation of Unsupervised algorithm
+
+Faculty: Prof. Arun Rajkumar, Team size : 1 PRML
+
+© Implementation of EM Algorithm, spectral clustering, K-means, PCA, and kernel PCA from scratch, followed by
+performance evaluation of each technique.
+
+5.Understanding and Implementation of supervised algorithm
+Faculty: Prof. Arun Rajkumar, Team size : 1 PRML
+{ This project’s objectives included: 1) Implementing linear regression, linear regression with gradient descent, and
+ naive Bayes from scratch, assessing their accuracy and efficiency. 2) Applying SVM and naive Bayes for email spam
+ and ham classification
+
+6.Search Engine Application/Information Retrieval (IR) system
+Faculty: Prof. Sutanu Chakraborti, Team size : 3 NLP
+{ This project involved data preprocessing, implementation of the Naive Vector Space Model, and model evaluation
+ using metrics like mAP, nDCG, F-Score, etc. Investigated different models and their ensembles, such as Word2Vec,
+ GloVe, BERT, and Latent Semantic Indexing, to address the limitations of naive vector space models.","{ Class Representative for M.S. CSE (Batch of 2021) at IIT Madras.
+{ Conducted interviews for roles within AI4Bharat
+{ Teaching Assistant for the course Data Structures and Algorithms (CS2800) Jan-May 2022
+{ Teaching Assistant for the course Linear Algebra and Random Processes (CS6015) July-Nov 2022
+{ Teaching Assistant for the course Deep Learning (CS6910) Jan-May 2023
+
+ 2/2","{ Secured All India Rank 360 in GATE CSE 2021
+{ Secured All India Rank 9333 in JEE Advance, 2017","{ Languages: C, C++, Python, SQL, JAVA
+{ Tools and Libraries:Pytorch, Numpy, Pandas, Tensorflow, Matplotlib, Hugging Face, Github, Flask
+{ NLP Models: Bert, XLMR, LLaMA, MPT, GPT, BLOOM
+{ Software and Platforms: LATEX, Wandb.AI","{ Advanced Data Structures and Algorithms.
+{ Linear Algebra and Random Processes.
+{ Pattern Recognition and Machine Learning
+{ Deep Learning
+{ Natural Language and Processing",,,"<. OF TE Chiy
+A (2)
+
+#!
+
+WINS
+ok 7
+
+S&S
+
+4\\
+
+ea at
++
+Van 18°
+
+Program %/CGPA Year
+
+M.S. (Computer Science and Engg.) In 9.43 CGPA 2024
+8.6 CGPA 2021
+91.2% 2017
+10 CGPA 2015"
+apple_software .pdf,2024-25,Apple,OCR p[1]+text,,,"Program Year Institute % /CGPA Scholastic Achievements
+M.Tech Computer Science & Engineering 2022-2024 Indian Institute of Technology, Madras 9.38 AIR 94 in GATE 2022 exam
+
+4 years Walk-In-Walk-Out Merit
+100% Scholarship
+
+B.E Computer Science & Engineering
+
+Class XII (CBSE) Science Stream School Topper (Science stream)
+
+Newspaper publication (City Topper)
+
+Class X (CBSE) Merit Certificate","Graduate Teaching Assistant (IITM) Teaching Assistant Jul 2022 - Ongoing
+Held tutorials for students, resolved doubts and graded assignments and answer scripts
+
+@ CS 3300 Compiler Design (Jul-Nov 2022)
+
+@ CS 6841 Approximation Algorithms (Jan-May 2023)
+e CS 6111 Foundations of Cryptography _(Jul-Nov 2023)
+Graduate Intern (Amazon Development Centre India Pvt. Ltd) /nternship May 2023 - Jul 2023 2 months
+PANTOMATH for EPub
+e Developed a JAVA based feature extraction tool to analyse & extract features from various EPub versions and export as JSON objects
+e Integrated ready-to-deploy code in existing workflow for preprocessing kindle books
+WORD EXPORT FEATURE FOR KINDLE NOTES DOCUMENTATION
+e Analysed new feature addition in Kindle notes for various blockers, possible implementations and other team support areas
+Software Engineer (Cisco Systems India Pvt Ltd) Full Time Aug 2021 - Jul 2022 11 months
+Worked in the security team of Expressway ( an advanced collaboration gateway for unified communications)
+Fixed critical security issues exposing potential vulnerabilities reported by PSIRT
+Worked on feature developments related to Smart Licences and API access restrictions
+Collaborated with multiple teams for bug fixing, development and integration of changes across various components
+e Assessed vulnerabilities on product, Assisted in Product certification process, Identified and fixed potential risks
+College Intern (Cisco Systems India Pvt Ltd) Internship Jan 2021 - Aug 2021 5 months
+SCALING MEDIA FORWARDING IN EXPRESSWAY
+e Researched various topics in Vector Packet Processing (VPP) framework
+e Added and customised VPP and required kernel configurations in custom Linux of Expressway Product
+
+e ~~ PA NEP with VPP addition nIEV vee tool
+
+e CWICS CTF (Across Cisco) - 3rd Place (Sept 2021) e Anna University Abacus Hackathon — 1st Place (Mar 2019)
+e OnLoad2.0(By DevFolio) — 3rd Place (Feb 2020) e = InCTF (All India level) —Finalist (Top 100) (Dec 2019)
+e TN Police Hackathon (CTF) — 1st Place (Nov 2019) e Smart India Hackathon 2019 — Finalists (Mar 2019)","* Verifiable Transaction and Identity Anonymity for Blockchains - RESEARCH Project IITM - [COURSE PROJECT] MAY 2023
+Course: CS 7111 Topics in Cryptography (Sem 2)
+Researched on preserving privacy while maintaining accountability in blockchain based on various approaches
+Proposed an architecture to achieve transaction anonymity along with identity anonymity for blockchains to store KYC data
+Topics in research: Zero-Knowledge Proof, ZK-SNARKS, Homomorphic encryptions, Threshold Encryptions, Blockchain Technologies
+* StegCloak - STEGANO-CRYPTO TOOL FOR DATA EXFILTRATION & DIGITAL WATERMARKING - [OPEN SOURCE] MAY 2020
+Designed steganographic tool in functional programming style, to hide secrets inside text by compressing and encoding plaintext
+with Zero Width Characters with strong encryption
+Use Cases: Watermarking strings, data exfiltration, Invisible scripts on webpages, social media texts or for covert communication.
+Developed CLI Tool, NodeJS package and deployed on Web for different types of access
+Published in Edex Live(Newspaper Publication) - Github(3k stars in Github) ¢ Techstack: NodeJS
+* Network Traffic Analysis - A ZEEK & PYTHON BASED PROJECT JUN 2019
+Worked on a project to analyse network traffic logs to detect any malicious behaviour in the network packet capture
+Implemented automation to data cleaning, formatting, labelling and plotting graphs to observe patterns
+Tested on some sample logs and analysed similarities in malicious logs
+Techstack: Zeek for network traffic analysis and log generation, PYTHON for data analysis
+
+Vive
+
+VU
+
+Vue
+
+★ FindR - A P2P WebRTC BASED PROJECT FEB 2020
+ ➔ Implemented a P2P based solution using WebRTC to connect any two people on the internet (in O(1)) browsing on the same page
+ with screen sharing option using JS bookmarklets
+ ➔ A native browser extension which would enable audio/video stream, peer to peer through webrtc
+ ➔ Use cases – Tech support, discussions on research and news pages, watching shows with friends
+ ➔ Techstack: Javascript, HTML
+ ➔ Won 3rd place in Onload 2020 Hackathon
+★ Drones Route Planning -A MICROSERVICE IN PYTHON FLASK JAN 2020
+ ➔ Implemented an efficient algorithm to plan routes for multiple drones based on given geometry considering fuel capacities and
+ refuelling site locations in O(n2logn) time complexity.
+ ➔ Techstack: Python Flask
+★ Foreign Exchange System - A NODEJS & MONGODB BASED PROJECT - [COURSE PROJECT] MAY 2020
+ ➔ Developed a system which mimics the calculations involved in GDP, foreign exchange rates and GDP values
+ ➔ After calculation, displays the calculated foreign exchange rates
+ ➔ Techstack: NodeJS, Express, MongoDB, HTML CSS • Course: CS 8582 OOAD LAB (Sem 5) (Object Oriented Analysis and Design)
+★ Railway Reservation System - A JAVA BASED PROJECT - [COURSE PROJECT] OCT 2019
+ ➔ Developed an algorithm which is an alternate method for allocating berths in Indian Railway Reservation System to ensure
+ maximum requirement for berth allocation are satisfied
+ ➔ With this algorithm, all the constraints of the current Indian Railway seat allocation with respect to seat allocation in the same
+ coach, priority to senior citizens and preference for lower berths are also taken into consideration
+ ➔ Techstack: JAVA, MySQL • Course: CS 8383 JAVA LAB (Sem 3)
+★ Time Table Scheduling - A C++ BASED PROJECT - [COURSE PROJECT] MAY 2017
+ ➔ Designed an algorithm for time table scheduling for classes with different course combinations satisfying the asymmetric workload
+ of teachers with proper load balancing and also predicts no of teachers required
+ ➔ Techstack: C++ • Course: Computer Science (CLASS XII) Subject Code: 083",,,"• Programming Languages:
+ ○ C/C++, JAVA, PYTHON, SQL, SOLIDITY, HTML, CSS, JSP
+ • DB and Client Server technologies:
+ ○ ORACLE DBMS, Mongo DB, Node, Python-Flask, PHP
+ • Network Programming Languages:
+ ○ ZEEK/Bro, Tools – nmap, wireshark, tshark, tcpdump","e Advanced Data Structures & Algorithms e Secure Systems Engineering
+
+e Advanced Programming ® Topics in Cryptography
+
+e Foundations of cryptography e Secure Processor Microarchitecture
+
+e Security in Cyber Physical Systems e Linear Algebra and Random Processes","• Computer Society of India CSI– Cyber Security Workshop 2019(Speaker)
+ • Lateral Thinking Competition 2018– (Organiser)
+ • Fun@Work@Expressway Committee - (Organiser) - Organised various monthly fun watercooler events for team in Cisco","• Cisco Security Ninja White Belt – Security Certification for Cisco Secure Development Life Cycle & Product Security Concepts
+ • Blockchain Architecture and its Use cases (NPTEL)
+ • Cloud Computing (NPTEL)
+ • Information Security (NPTEL)",
+applecellular_software..pdf_,2024-25,Applecellular,OCR,9.11,,"Indian Institute of Technology, Madras Chennai, India
+B.Tech (honors) in Electrical Engineerin. CGPA: 9.11/10 2020 — 2024
+
+Chennai, India
+Score: 96.8% 2020
+Score: 97.2% 2018","WorldQuant Research India Pvt. Ltd. Mumbai, India
+Quantitative Research Internship May 2023 — July 2023
+* Worked in the area of multi-factor risk modelling under the direct supervision of senior regional research directors.
+« Developed an upgraded algorithm for hard neutralization, leading to 4x improved efficiency over previous models.
+« Successfully resolved the problems of soft neutralization and smart neutralization with great speed and accuracy.
+« These advancements have rendered these operations directly applicable to alpha researchers at WorldQuant.
+
+Young Research Fellowship (YRF) Dept. of CSE, ITM
+Research Fellowship: Project - Swarm Robotics, Guide: Prof. John Augustine Oct 2022 — Apr 2023
+
+« The project’s focus involved investigating challenges within distributed computing using mobile agents, both in the
+
+presence and absence of adversaries, controlling a fixed number of Byzantine agents.
+
+« Thoroughly examined fundamental challenges such as graph exploration, rendezvous, and black hole search.
+Logistics Lab, IIT Madras Chennai, India
+Software Development Internship (Algorithms), Guide: Prof. NS Narayanaswamy March 2022 — May 2022
+
+* Engaged as an integral member of a software team focused on the development of advanced algorithms to drive
+
+optimal fleet management and routing solutions within the logistics domain.
+
+* Specialising in container packing, we explored and applied algorithms such as simulated annealing and decision
+
+trees to enhance the efficiency of container packing operations.","Optimizing Network Performance with TCP-Inspired Scheduling | Communication Networks Course Project
+* Conducted Geo/Geo/1 queue simulations, analyzing average queue length, sojourn times, and testing Little’s Law
+principles to gain insights into queuing dynamics.
+« Designed and implemented TCP-inspired scheduling systems like Processor Sharing, Water Filling, and
+MaxWeight. Evaluated average delay, throughput, server utilization for each, and compared their effectiveness.
+Online Sudoku Solver and Visualiser | Personal Project
+* Implemented a combination of greedy(best first search) and backtracking algorithms to solve the Sudoku puzzle.
+« Expanded functionality by adding web scraping using requests and beautifulsoup from the NYtimes sudoku website
+* Used pyautogui to implement automatic entering and a visualiser which displays all steps of algorithm execution.
+Runge-Kutta ODE Solver | Numerical Methods Course Project
+* Developed C programs for applying Runge-Kutta methods (RK3, RK4, RK45) to numerically solve the
+Landau-Lifshitz-Gilbert Equation, characterizing magnetization dynamics in ferromagnetic materials.
+Netlist circuit solver | Applied Programming Lab Course Project
+* Developed a Python project that processes .netlist files from LTSpice, utilizing Modified Nodal Analysis (MNA) to
+extract and provide a wide range of essential circuit parameters as output.","Shaastra, IIT Madras
+Head, Shows and Exhibitions, Shaastra 2023 May 2022 — March 2023
+« Spearheaded the Shows team responsible for two dynamic events: ""Rhythmic Rave’, an electrifying EDM concert
+headlined by Sonu Sebastian, and ""Motor Mayhem’, an adrenaline-charged road show spotlighting bike stunts.
+Coordinator, Shows and Exhibitions, Shaastra 2022 May 2021 — March 2022
+* Part of the organizing team for 3 distinct events: ""TIF’, a nationwide prototype building competition; *JMT’, a parallel
+event for school students; and ""Innovision’, a campaign aimed at fostering the maker spirit and promoting awareness.
+Other PoRs: Teaching Assistant, GN1101/2; Coordinator, Analytics Club; Associate Manager, ESummit 2021.",JEE Advanced 2020: AIR 530 | JEE Main 2020: AIR 1146 | KVPY (SX) 2019: AIR 333,"IITM coursework: Probability, Linear Algebra, Programming and Data Structures, Design and Analysis of Algorithms,
+
+Randomised Algorithms, Numerical Methods (C), Microprocessors Theory and Lab (Assembly and C), Applied Programming
+
+Lab (Python), Convex Optimisation, Game Theory, Machine Learning Techniques.
+
+Other coursework: Coursera: Data Structures, Algorithms, Jovian: Machine Learning, NPTEL: Discrete Maths
+
+Programming: C/C++, Python, MATLAB, ETRX, Assembly in AVR and ARM
+
+Libraries and other relevant skills: NumPy, SciPy, Sympy, Pandas, Scikit-learn, pyautogui, Git, GitHub, ATPX",,"Specialist on Codeforces - max rated 1442; Summer Programming Camp 2021, ITT Madras.
+
+Inter IIT Cricket Probable, NSO - Cricket 2022, IITM Inter-Department Basketball League - Winners.
+Rajyapuraskar (Governor’s Award) - Bharat Scouts and Guides.",,
+GLEAN SEARCH TECHNOLOGIES INDIA PRIVATE LIMITED_SOFTWARE ENGINEER.pdf_,2024-25,Glean,OCR,,,,"Quantitative Research & Trading intern | Quantbox Research, Bengaluru May ‘23 - Jul ‘23
+e Conducted an in-depth analysis of leveraging consumer sentiment for market movement forecasting
+e Applied various NLP models to extract sentiment insights using available data
+e Modelled the price fluctuations in the market through thorough analysis and processing of derived feature sets","Cache Oblivious Algorithms | Centre for Innovation, IIT Madras Jun ‘21 - Mar ’22
+e Implemented Cache-Oblivious Algorithms for matrix multiplication & transpose
+e Built an efficient Cache-Oblivious Priority Queue data structure in C++
+
+Matching under Preferences | Guide: Prof Meghana Nasre, IIT Madras Nov '21 - Jun ‘22
+e Implemented & verified solutions to Hospital-Resident Problem like Stable & Popular matchings in C++
+e Improved a matching library portal which will be used for the allotment of PhD Scholars
+
+MacroJava Compiler | Prof KC Sivaramakrishnan, CS3300 Course Project Aug '22 - Nov ‘22
+e Lexical analysis of MacroJava programs was conducted using Flex, then parsing them into MiniJava using Bison
+e Developed a multi-stage optimizing compiler to convert MiniJava programs to MIPS Assembly
+
+Custom Strategies for Equities & Forex trading | Self Project May ‘22 - Jun ‘22
+e Developed custom strategies based on RSI, Bollinger Bands & MACD indicators
+e Portfolio Rebalancing strategies for NIFTY Largecap stocks in Python and major Forex pairs in MQL4
+
+Hotel Rating Prediction | Prof Harish Guruprasad, CS5691 Course Project Nov '22 - Dec ‘22
+e Built an ML pipeline to predict rating scores that customers are likely to assign to hotel bookings
+e Performed intensive imputation & feature engineering using linear regression as the predictive model
+
+Pipelined Processor design | Prof Madhu Mutyam, CS2610 Course Project Apr '22
+e Simulated a 5-stage scalar pipelined processor based on RISC Architecture in C++, where each stage is executed
+
+in parallel to speed up the overall execution
+
+Deep learning transliteration model | Prof Mitesh Khapra, CS6910 Course Project Apr ‘23 - May ‘23
+e Used recurrent networks like RNN, LSTM, GRU to develop a transliteration model from English to Indian language
+e Improved the accuracy of the model by using attention mechanism",,"e =©AIR 126 in JEE Advanced 2020 & AIR 624 in JEE Mains 2020
+e Candidate Master in Codeforces with a max rating of 1986 | Best performance: Global rank 116
+e AIR 12 in ICPC Gwalior-Pune Regionals 2021-22 | Honorary mention in ICPC Kanpur Regionals 2021-22
+e Global Rank 177 (India Rank 70) in Google Kickstart Round C 2022, Score: 100/100
+e 5§-star coder in CodeChef with a max rating of 2032 | Best performance: Global rank 7
+e AIR 2 in Shaastra CP Potpurri Finals 2022, a mixed-bag coding contest
+e Global Rank 1118 in the Facebook Hacker Cup Round 2, 2021
+e Global Rank 80 (India Rank 2) in CBFX Weekly Trading Contest 17, a Forex trading contest
+e NTSE Scholar, KVPY Fellow, appeared for INMO, INAO, INChO
+e 97.8% in class XII (CBSE) & 91.6% in class X (CBSE)","Languages : C++, Python, Bash, C, MQL4, RISC Assembly
+Tools > Linux (Ubuntu), Git, Latex, Xampp, MetaTrader4, AutoCAD","Data Structures & Algorithms Object-Oriented Algorithms Lab Nonlinear optimization*
+Fundamentals of Deep Learning Pattern Recognition & Machine Learning Introduction to Game Theory
+Probability, Statistics and Stochastic Process Principles of Economics Operating Systems
+Computability & Complexity* Secure Systems Engineering Compiler Design
+Computer Organization and Architecture Introduction to Computer Networks *= Ongoing courses (July - Nov 2023)","Part of the National Service Scheme (NSS) of IITM
+
+Speedcuber with an official solve of 19.21 seconds
+
+4-time national abacus champion
+
+Completed basic level Japanese Language course
+
+Intl. Rank 35 (Zonal 4th) in NSO (Science), Intl. Rank 45 (Zonal 5th) in IMO (Maths), conducted by SOF 2019",,
+GLEAN SEARCH TECHNOLOGIES INDIA PRIVATE LIMITED_SOFTWARE ENGINEER1.pdf_,2024-25,Glean,OCR,8.91,,"Indian Institute of Technology-Madras, Bachelor of Technology
+Jul 2020 | Chennai, India
+
+* Computer Science Engineering
+* CGPA: 8.91/10","Google, Software Engineering Intern
+
+May 2023 - Jul 2023 | Bangalore, India
+
+* Worked in Google Ads team to improve privacy of customers by bucketizing
+the match rate percentage of User Lists uploaded by advertisers to the
+Audience Manager UI.
+
+* Worked on automating the process of updating the match rate percentiles to
+help advertisers compare their match rates with respect to other advertisers.
+
+ii, UNDERGRADUATE RESEARCH
+
+Popularity Graphs and Stable Matchings, Guide - Prof Meghana Nasre @
+
+Jan 2023 - May 2023
+
+e Explored a notion of optimality in matchings known as popularity and
+worked on finding an equivalence condition for checking for existence of
+popular matchings within a set of matchings given an input bipartite graph
+with strict preferences for a constrained case.
+
+e Explored a new notion of optimality in matchings with preferences known as
+unpopularity factor and worked on deriving various size-unpopularity
+tradeoff bounds.
+
+Non-determinism in 2-way Finite Automata, Guide - Prof. Jayalal Sarma
+
+Jul 2023 - ongoing
+
+* Exploring classical ways in which sweeping automata were generalized in
+the literature such as restricting the number of head reversals and exploring
+the size bounds on such models with respect to equivalent LNFA/2NFA.
+
+* Exploring new ways to generalize the results known for the size guarantees in
+the sweeping automaton for more general models which should give insights
+to the L versus NL problem.
+
+fy PROJECTS
+
+Hack CPU, CS2310, Guide - Prof Chandra Sekhar
+
+Jul 2021 - Nov 2021
+
+« Implemented basic Combinational Logic Circuits using Nand2Tetris for
+performing arithmetic operations.
+
+e Further used them to build a 16-bit Hack CPU that performs various
+arithmetic and logical operations.
+
+Pipelined Processor, CS2610, Guide - Prof Madhu Mutyam 7
+
+Jan 2022 - Apr 2022
+
+« Emulated a 5 stage Scalar Pipelined Processor based on RISC architecture
+in C++.
+
+Compiler for MiniJava, CS3300, Guide - Prof KC Sivaramakrishnan
+
+Jul 2022 - Nov 2022
+
+« Built a compiler for MiniJava (a subset of Java).
+
+* Did lexical analysis, type checking, register allocation and finally converted to
+MIPS assembly.
+
+OSPF routing and GBN protocol, CS3205, Guide - Prof Krishna Sivalingam
+
+Jan 2023 - May 2023
+
+« Implemented a simplified version of the Open Shortest Path First routing
+protocol and the Go-back-N reliable transmission protocol in python.",,"Strategist, Programming Club, Centre for Innovation
+
+Apr 2022 - Apr 2023
+
+* Conducted a 3-day CP/DSA workshop for students at
+TKM College of Engineering, Kerala.
+
+Conducted a Competetive Programming Bootcamp
+that featured 100+ students at Anna University, Chennai.
+Prepared editorials for prestigious Competetive
+Programming competitions hosted by Google and
+Codeforces, uploaded to our club's YouTube channel.
+Channel has 4k+ subscribers and 120k+ views.
+Mentored a team of 6 students in a project involving
+observing the effects of Natural Selection on Evolution
+by simulating a natural ecosystem and plotting the
+various organism traits as a function of time.
+
+Teaching Assistant, Programming and Data Structures
+
+Jul 2023 - ongoing
+
+« Assisting, evaluating students with their weekly lab
+assignments.","« JEE Advanced 2020 - AIR 133 among 150,000+ students all over India.
+* BITSAT 2020 - 408/450 marks
+
+Global Coding Competetions
+
+* Google Kick Start Round C 2022 - Rank 293
+
+* Google Code Jam Round 1C 2022 - Rank 241
+
+* Google Hash Code Qualification Round 2022 - Rank 651
+* Qualified to Round 2 of Meta Hacker Cup 2021
+
+Competitive Programming
+
+* Max Rating 1907 (Candidate Master) on Codeforces
+(Tahir_Sandalwala @ ),
+
+* Max Rating 2147 (5*) on CodeChef (tahir_729 7).
+
+* Global rank of 184 in Codeforces Round #765 (Div. 2) out
+of a total of 7000+ participants.
+
+* Global rank of 17 in CodeChef Starters 45 (Div. 2) out of a
+total of 2300+ participants.
+
+iit COURSES
+
+Computer Science
+
+Programming and Data Structures
+
+Design and Analysis of Algorithms
+
+Pattern Recognition and Machine Learning
+Object-Oriented Algorithms Implementation and Analysis
+Operating Systems
+
+Introduction to Database Systems
+Introduction to Computer Networks
+Computer Organization and Architecture
+Foundations of Computer Systems Design
+Compiler Design
+
+Discrete Mathematics for Computer Science
+Language Machines and Computations
+Advanced Graph Algorithms
+
+Computability and Complexity*
+Randomized Algorithms”
+
+*= ongoing courses
+
+Mathematics and Physics
+
+* Probability, Statistics and Stochastic Process
+Linear Algebra for Engineers
+
+Graph Theory
+
+Fundamentals of Operations Research
+Classical Physics","Languages
+C, C++, Java, Python, Scheme, 32-bit x86 Assembly, HTML,
+Dart, SQL
+
+Tools
+LaTeX, AutoCAD, Linux, GitHub",,"« Member of NSS (National Service Scheme), IIT Madras
+« Amateur Chess Player",,
+Google_Software development Engineer. pdf,2024-25,Google,OCR p[1]+text,,,"PROGRAM INSTITUTION %/ICGPA YEAR OF COMPLETION
+B.Tech in CSE Indian Institute of Technology, Madras 2024
+
+2020
+2018","SDE Intern at Uber India May 2023 — July 2023
+e Job Metrics Dashboard
+e Created the UI for the Rolodex(an internal Uber tool) Job Metrics dashboard, which made the monitoring of jobs and debugging more
+efficient.
+e Achieved 100% code coverage, and the project was deployed into production
+e ukKnow slack bot backend
+e Created the design for a Slack bot that could be used to answer support queries on Slack channels.
+e Implemented APIs for embedding documents and answering queries","Undergraduate Research Project - Prof. Meghana Nasre July 2023 - present
+e Compare and contrast the notions of optimality for matching problems with lower quotas and ties, especially in the case of relaxed stability
+and minimum satisfaction ratio matchings.
+e Investigate whether there exist good parameters for which we can design a fixed-parameter tractable (FTP) algorithm or prove hardness.
+Search Engine January 2023 - May 2023
+e Built a search engine from scratch that searched over the Cranfield dataset and retrieved the top k relevant documents.
+e Created a basic vector space model and then improved the nDCG and MAP(mean average precision) by 11% and 8%, respectively, using
+LSA(Latent Semantic analysis) and a unigram/bigram hybrid model
+
+Rating Prediction July 2022 - November 2022
+e Experimented with a real-world data set to build a prediction model for customers to predict rating scores that they will likely assign to hotel
+bookings.
+
+e Trained the datasets using a tree-based HistGradientBoosting Regressor to achieve a mean squared error of 1.38 on the final dataset, where
+ratings were in the range of 1-5s
+Computer Systems Design July 2021 - November 2021
+e Used nand2tetris to implement combinational logic circuits(Encoder, Decoder, Priority Encoder, Multiplexer, Demultiplexer), different kinds
+of adders(RCA, CLA, CLA with higher-level propagate and generate terms), signed and unsigned multipliers, and floating-point multiplier.
+e Finally developed a basic Hack Computer by putting together an ALU, which can perform various operations on the input numbers, and a
+program counter, as a team of three members.
+Pipeline Processor January 2022 - May 2022
+e Implemented a 5 Stage Scalar Pipelined Processor based on RISC Architecture in C++, along with a teammate.
+e Given instruction cache, data cache, and register file contents, it executes the program and provides insights like the total number of cycles,
+clock cycles per instruction, number of stalls, stalls due to RAW hazards, and number of control stalls.
+e The instruction set of the processor includes arithmetic, logic, data(load and store), and control instruction.
+Computer Networks January 2023 - May 2023
+e Implemented a simplified version of the Open Shortest Path First (OSPF) routing protocol and Go-back-N reliable transmission protocol","CFI: Project Member – Programming Club IITM May 2022 – April 2023
+ • Was part of the visualizer library project team
+ • Created an emulator for the Splitwise app in C++ using Dinic's maxflow algorithm
+CFI: Volunteer – Programming Club IITM December 2021 – May 2022
+ • Interacted with freshmen and sophomores who were part of Weekend Programming Sessions conducted by the programming club,
+ participated in testing contests, and conducted sessions
+ Saathi: Student Wellness Center - Mentor January 2022 – January 2023
+ • Mentored six freshmen undergraduates for their academics, extracurricular and mental well-being as a part of the Saathi Wellness
+ Program","Secured a rank of 574 out of 0.15 million candidates in JEE Advanced 2020
+
+Secured a rank of 709 out of 1.11 million candidates in JEE Mains 2020
+
+Recipient of the prestigious NTSE scholarship awarded by NCERT to 1000 candidates over India every year
+Competitive coding: Codeforces rating (max) - 1599, Codechef rating - 1777
+
+Runner-up in Debug and Duel conducted by ACM-CEG, Anna University
+
+Stood 27th in the finals of ICPC Algoqueen 2023
+
+Was one of the top 15 finalists out of 376 participants in Shaastra Reverse Coding 2022 contest
+
+Finalist of Quantathon 2023 and Reverse Coding 2023
+
+Ranked third in the state in Maharashtra Talent Search Exam (MTSE)","• Discrete Mathematics for Computer • Pattern Recognition and • Languages, Machines, and
+ Science Machine Learning Computations
+ • Programming and Data Structures • Natural Language Processing • Paradigms of Programming
+ • Design and Analysis of Algorithms • Computer Networks • Compiler Design
+ • Object-oriented analysis and • Advanced Graph Algorithms • Probability, Statistics, and
+ implementation • Operating Systems Stochastic Process
+ • Computer Organization and Architecture • Basic Graph Theory • Multivariable Calculus*
+
+ • Languages: C++, C, Python, Golang, HTML, CSS, Typescript, JavaScript, Prolog, 32-bit x86 Assembly, Latex
+ • Packages and frameworks: ReactJS, Jest, Base Web, AutoCAD, Nand2Tetris, Linux, OpenCV, NumPy, Pygame",,"• Selected to be a part of NSO(National Sports Organization) Table Tennis
+ • Received the Insti Orange tag given to an athlete from each sport based on their performance/dedication/potential in their sport.
+ • Secured silver medal in Inter-hostel sports tournament(Schroeter)
+ • Trained in Indian Classical Music (synthesizer) till the third stage.
+ • Learnt French and Japanese as a part of an elective course",,"Indian Institute of Technology, Madras"
+Google_Software development Engineer1.pdf_,2024-25,Google,OCR,8.59,,"Program Institution %ICGPA Year
+M.Tech (CSE) Indian Institute of Technology, Madras 8.59/10 2024
+2021
+
+2017
+
+2015","Amazon Development Center India Pvt. Ltd May 2023 - Jul 2023
+Software Dev Engineer Intern
+o Developed micro-service to extract SCORM package metadata from S3 automatically.
+o Created API endpoint and DynamoDB storage for easy retrieval and migration of SCORM package.
+o Enhanced LMS functionality by integrating Rustici API to generate preview links for SCORM content.
+o Implemented mock registration to enable previewing of CMI5 content, overcoming Rustici API limitations.
+SpringML India Development Center Pvt. Ltd Jul 2021 - Jun 2022
+Associate Data Engineer
+o Workedas a team member in a project to build a custom Oauth server using Node oidc-provider,
+
+a profile-portal application for around 20 million users.
+o Implemented authorization of REST APIs for both JWT and opaque tokens.
+o Developed reset password functionality, consent screen for client requested scopes.
+o Improved the efficiency of the application by using Redis cache and reduced the SQL read database calls.
+SpringML India Development Center Pvt. Ltd Mar 2021 - Jun 2021
+Consultant Data Engineer Intern Semester Long Project
+o Developed authentication and authorization using Firebase.
+o Implemented REST APIs with CRUD operations on data to Firebase, google cloud storage bucket.
+o Created a video thumbnail using google cloud storage bucket trigger on google cloud function.
+o Extracted information from a document using google document AI API.","Continuous Crawling Aug 2023 - Ongoing
+Faculty: Prof. Mitesh Kapara M.Tech Project
+
+© Implementing a continuous crawling system to collect diverse pre-trained data in multiple Indian languages
+for a Large Language Model (LLM), ensuring a steady stream of updated information.
+
+o Integrating the same with a data cleaning pipeline and text data explorer to enhance the pre-trained data.
+
+Spatio Temporal PM2.5 Concentration Prediction. Jan 2020 - Dec 2020
+Faculty: Prof. Mainak Thakur, Teamsize: 3 B.Tech Project
+
+© Collected PM2.5 hourly concentration data using Selenium.
+© Implemented a 2D Convolution model and a 3D Convolution model with LSTMs in Tensorflow. The
+
+performance was then compared by using different loss functions like RMSE, MAE and MAPE.",,"o Secured All India Rank 405 among 75,000 candidates in GATE CS 2022.
+
+© Certified Associate Google Cloud Engineer.","o Programming Languages: C, C++, Python. o Cloud Technologies: GCP, AWS.
+© Tools and Libraries: Flask, Django, Tensorflow, Pytorch. o Databases: MySQL, Firestore(No-SQL).",,,,
+Google_Software development Engineer2.pdf_,2024-25,Google,OCR,,,"PROGRAM INSTITUTION %/CGPA COMPLETION
+B.Tech,Electrical Engineerin Indian Institute of Technolo 7.58 2024
+
+2020
+2018","Summer Internship | Oracle, Bangalore May-July 2023
+e Enhanced AWS S3 canary testing for Object Storage, addressing failures and optimized tests for improving accuracy.
+
+e Strengthened testing framework by removing hardcoded credentials, enhancing security and ensuring robustness.
+
+e Implemented an automated system for access key rotation every 90 days for improved security and compliance.
+.
+
+Managed sensitive credential migration to an internal secure management system, aligning with compliance standards. Integrated
+system for streamlined retrieval, reducing security risks.","Bite-Buddy
+e Designed and built BiteBuddy, an intuitive online food ordering platform using React, MongoDB, Express.js, and Node.js.
+e Implemented user-friendly features including user authentication, menu management and a dynamic cart system.
+e Implemented JWT token authentication and Bcrypt.js encryption for secure user sign-up, login, and data handling and
+ensured a seamless, secure ordering experience across desktop and mobile devices.
+Chat Application
+e Developed a ReactJS Chat App featuring real-time status updates and read-receipt indicators for improved engagement.
+e Implemented advanced functionalities including room creation, message read-status icons, image integration, sound notifications
+Credit card approval prediction
+e Developed a credit card approval predictor with ML, ensuring accurate predictions without harming credit scores via hard inquiries.
+e Utilized Pandas Profiling and custom Exploratory Data Analysis(EDA) to uncover approval drivers like age, income, and gender.
+e Employed feature transformations such as Time conversion, Skewness handling, and One-hot encoding, optimizing the data for
+training. Also implemented oversampling techniques to enhance model performance and achieve fairer predictions.
+Employee Churn Prediction for Strategic Retention
+e Created employee turnover prediction using decision trees and random forests with scikit-learn, Matplotlib, and NumPy.
+e Constructed and evaluated decision tree and random forest classifiers. Displayed graphical representations of decision trees.
+Pattern Recognition and Machine Learning Projects
+e Performed Principal Component Analysis on grayscale image, reconstructed using top K Eigen/Singular Values, analyzed results..
+e Implemented Least Square and Ridge regressions on 1D and 2D data, analyzing results via plots, ROC and Confusion Matrix.
+e Implemented Bayesian Classifier, categorized data for various cases like same Covariance Matrix,different Covariance Matrices etc.
+Applied Programming Lab (course project)
+e Created a circuit solver using Modified Nodal Analysis and utilized least-squares for data fitting and noise reduction in circuits.
+e Obtained the DFT & solved the Fourier transform for known functions by proper sampling of the function.","Coordinator, Workshops Team , SHAASTRA July 2021 - Feb 2022
+e Responsible for screening and selecting over 30 instructors and helping them construct their workshop.
+e Coordinating with the sponsor companies for finalizing the workshops including content and fee.","e Secured AIR 6079(OBC 1033) among 2.45 lakh candidates in Joint Entrance Examination Advanced , 2020.
+e Secured AIR 7110(OBC 1269) among 12.24 lakh candidates in Joint Entrance Examination Mains , 2020.","e Data Structures and Algorithms ® Operating Systems* e Finite Element Methods in
+
+e Machine Learning* e Database Management System Engineering*
+
+e Web Development* e Probability, Statistics and e = =Applied Programming Lab
+
+e Applied Linear Algebra for Stochastic Processes e Numerical Tech for Engineers
+Electrical Engineers* e = Biostatistics (*-ongoing)
+
+Technologies: C, C++, Python, Matlab, HTML, CSS, Javascript, SQL, Assembly Level Language, MongoDB.
+Frameworks & Libraries: React, Node.js, Express.js, Sci-kit Learn, Pandas, Numpy, Latex.
+Practices & Project Management: Object Oriented Programming, Git & Github.",,e Participated in a year long training in Volleyball as a part of NSO.,,
+Google_Software development Engineer3 .pdf,2024-25,Google,OCR,,,"| Program| C—“‘SSC*étitution’” «= CC—“‘dL:S~SC(+/CGPA_|_Yearcof Completion
+OO |
+
+e Secured All India Rank 5448 in JEE-Advanced examination, bagging top 3% among 1.5 Lakh candidates
+Scholastic e Secured All India Rank 3525 in JEE Main (Engineering) examination, bagging top 0.3% 1.1 million candidates.
+Achievements e Secured State Rank 550 in EAMCET examination out of 1.43 lakh candidates, organized by Telangana State.
+e Secured Global Rank 2 out of 1577 candidates in Digit Recognizer competition, conducted by Kaggle.","e Established an end-to-end system for Summarization and Data Storytelling, alongside augmented analytics methods.
+
+e Executed facts extraction from extensive datasets through advanced data mining and combinatorial algorithms.
+
+e Conducted in-depth review of diverse research papers, and implemented CALLIOPE paper within a specific module.
+
+e Engineered an automated insight system utilizing question answering, integrating information retrieval techniques.
+
+e Incorporated user feedback using NLP techniques to enrich data stories for more relevance and diversity; Employed
+optimization algorithms, mindful of token limits in large language models, to achieve optimal summary generation.
+
+e Proficiently managed LLMs such as Vicuna 33 B and Alpaca 13B, deployed entire system as a Flask Web Application.
+
+PATENT
+
+Adobe Research e Submitted a patent titled “An Interactive setting for augmented Analytics for customer profile Datasets” for review.
+COU RSEWORK AND SKILLS *~ ongoing, * - online","Grocery App e Created an interactive Grocery app to keep the record of customers and maintain their orders in the grocery store.
+Self-Project e Shaped the backend using Python, JavaScript, CSS and HTML for frontend and MySQL for the database management.
+May’23 Created the schema and related tables, integrated python flask server and MySQL server by MySQL connector.
+e Generated an API to delete and insert products, total price, product list and order list in the tables using Python.
+Image Caption e Developed innovative image-to-text model capable of generating descriptive narratives for real-world visual content.
+Self-Project e Leveraged pre-trained Inception V3 model as CNN encoder, extracting the ultimate hidden layer for embedding.
+Mar’23-Apr’23 e Employed extracted image features as initial state for RNN and crafted image captions using LSTM""’ text generator.
+Intent Classification | « Constructed a Gaussian Naive Bayes classifier using pre-trained BERT sentence embeddings as enriched features.
+Self-Project e Utilized sklearn for classifier and pytorch for BERT, tested on spam email detection, IMDB movie reviews dataset.
+Oct’22-Nov’22 ¢ Compared the performance with multiple datasets and concluded that it works well with a smaller number of intents.
+Human Faces e Constructed Neural Network to generate plausible human faces using Generative Adversarial Network.
+Self-Project e Enhanced Generative CNN training with Adam Optimizer; trained discriminator using stochastic gradient descent.
+Jan’23-Feb’23 e Attained high level expertise in successfully creating realistic facial images using advanced Deep Learning techniques.
+Parts of Speech Tagging) e Built model using NLTK’s Brown Corpus dataset to identify parts of speech from universal tagset of words in sentence.
+Self-Project e Individually developed a Hidden Markov Model, incorporating Laplace smoothing from the ground up.
+Aug’22-Sep’22 Obtained an accuracy of 0.94, a precision of 0.84 with 5-fold cross validation, reflecting robust model performance.
+
+Adobe Research
+Research Intern
+May’23 - Aug’23
+
+Insurance Prediction | e Led comprehensive analysis of robust health insurance data, intricately refining through meticulous procedures.
+Course-Project e Subsequently deployed state-of-the-art binary classification methodologies, demonstrating diverse analytical tools.
+FE5180 e Orchestrated a sophisticated hyperparameter optimization, showcasing acumen for fine-tuning to augment precision.
+Prof. Kaushik Mitra e The outcome was a commendable 77% accuracy, attesting to methodical harnessing of advanced algorithms.
+Portfolio e Created a responsive collapsible personal portfolio website (Link - https://priyankag1903.github.io/ ).
+Self-Project e Developed frontend of the website using HTML, CSS, Bootstrap and JavaScript ensuing in a functional website.
+March‘22 e Added Home, Education, Work experience and Contact details in one collapsible tab for convenient access.
+
+Tic-Tac-Toe e Developed an interactive tic-tac-toe game using Python, offering players a choice between Human/Al configurations.
+Self-Project e Utilized a combination of the Minimax algorithm and Depth-First Search to implement Al version within the system.",,,,,"Schroetors cup e Leadership: Led a throwball team to victory as captain, securing the prestigious Gold Medal in the Schroetors Cup.
+(Sports) « Achievement: Demonstrated exceptional leadership skills by captaining a throwball team to clinch the Gold Medal.
+
+« Completed a one-year course under NSO — IIT MADRAS, in Throwball.
+
+ILSTM — Long short-term memory @PCA—Principal component Analysis",,Indian Institute of Technology Madras
+infurnia_software (1) .pdf,2024-25,Infurnia,OCR,8.52,,"+ Indian Institute of Technology, Madras, B.Tech in Computer science and
+Engineering, CGPA: 8.52","MAY 2023 — JULY 2023 (FT)
+
+Goldman Sachs ( Summer Analyst)
+
++ Interned with Goldman Sachs’ GSMetrics team, contributing to their analyt-
+ics platform by introducing a new feature called “dimensions” for metric anal-
+ysis.
+
+* Developed dimension onboarding functionality, utilizing React for the fron-
+tend and Spring Framework with MongoDB for the backend implementation.
+* Gained experience in full-stack development, working on both frontend and
+backend aspects to enhance the functionality and user experience of the GS-
+Metrics website.Received pre-placement offer from goldman sachs.
+
+DEC 2021 — JAN 2022(PT)
+Hixaa Technologies (Full Stack Developer)
+* Developed a company website utilizing RESTful API, MySQL, PHP, and
+Wamp server to facilitate data reception from HTTP requests and dynamic vi-
+sualization through tables, charts, and graphs.
++ Provided custom industrial automation services, specializing in oT solutions
+for seamless data integration and visualization on a web platform.","HotelRating Predictor
+
+* Developed a sophisticated ML model predicting customer rat-
+ings for hotels, utilizing diverse data like customer info, demo-
+graphics, past ratings, and hotel descriptions.
+
+- Extensively explored both modern sklearn models and funda-
+mental algorithms (KNN, Decision Trees, SVM, Regression, Boost-
+ing).
+
+* Successfully created a high-accuracy model through feature en-
+gineering, hyperparameter tuning, and ensembling techniques.
+
+Mini Search Engine
+
+* Developed a compact search engine using NLP techniques on
+the Cranfield dataset. Employed stemming, stopwords removal,
+and models like VSM, LSA, and ESA to extract most relevant
+documents for user queries.
+
+* Leveraged NLTK library for advanced text processing, resulting
+in a robust system with significant accuracy gains. Achieved im-
+pressive retrieval accuracy.
+
+Network Protocol Simulations
+
+* Implemented and simulated the ”Go-Back-N” automatic repeat
+request protocol and the Open Shortest Path First (OSPF) rout-
+ing protocol. Additionally, designed and developed a functional
+DNS server. Enhanced understanding of network protocols, data
+transmission, and server-client communication through hands-
+on implementation and experimentation.
+
+Cache Simulator and Pipelined Processor
+
+* Identified the cache block size and the associativity of Li cache
+by reverse engineering.
+
+* Simulated a 5 stage Scalar Pipelined processor based on RISC
+Architecture in C++","Member of Vivekananda Study Circle
+
+* Collaborated with a team of three to organize a Summer School,
+imparting C++ language skills to village students in grades 10-12.
+
+* Initiated diverse competitions such as Agri-Ideathon and Story-
+
+Writing contests as part of VSC’s Meyyur outreach initiatives.
+
+Co-ordinator for Shaastra 2022
+
+* Conducted a well-received workshop, ""Hacking 101 with Micro-
+controllers,” attracting over 100+ participants,
+
+* Efficiently coordinated events: communication, scheduling, cre-
+ative design, and strategic social media promotion.","* Secured an All-India Rank 1966 out of more than 0.2 million candidates in
+JEE Advanced 2020
+
+* Secured an All-India Rank 2019 out of more than 1.2 million candidates in
+JEE Mains 2020
+
+* Scored 69 marks out of 90 in National Aptitude Test - 2021
+
+* Secured a Global Rank 62 in Codeforces Round 866 (Divz),
+among 20,000+ participants
+
+* Expert in codeforces with a max-rating of 1659 as of 15-08-
+2023.
+
+* Accomplished solving over 1000+ coding challenges across mul-
+
+tiple platforms, honing proficiency in C++, data structures, and
+algorithms.","* Languages - C, C++, HTML, CSS, javaScript,Latex,Prolog,Java, python, re-
+
+act(basic)
+- Software Packages — AutoCAD, NandzTertis, GitHub, Fusion360, Unity-
+Hub(basic).","* Computer Networks
+
++ Object-Oriented Programming Implementation
+* Compiler Design* ,;Operating Systems
+
++ Natural Language Processing
+
++ Paradigms of Programming
+
++ Pattern Recognition and Machine Learning
+
+* Foundations of Cryptography*
+
++ Probability, Statistics, and Stochastic Process
+
++ Computer Organization and Architecture
+
++ Programming and Data Structures
+
+* Design and Analysis of Algorithms
+
+* Basic Graph Theory
+
+: Artificial Intelligence: Knowledge Representation And Reasoning","* Proud holder of a B-certificate from National Cadet Corps
+training (NCC).
+
++ Passionate music enthusiast who enjoys playing the piano.
+
++ Learnt Basic Chinese and Korean communication.",,IIT Madras
+infurnia_software .pdf,2024-25,Infurnia,OCR,,,,"Learnt the Greeks and Pricing Theory, performed simulated trading and a 3-week project
+e Practiced simulated trading on ESX 50 options with multiple expiries
+e Worked with Single Stock Options desk to analyze trades and execution traders behavior
+e Suggested improvements to the quoting model for large volume Over-The-Counter trades
+Technology Developer Intern| Studied various data pipelining frameworks, like prefect and dagster
+
+Trading Intern
+Optiver
+(May 23 —Jun 23)
+
+DE Shaw e Performed a pros and cons analysis on the libraries based on various parameters
+(May 22 — Jul 22) e Implemented and visualized pipelines for datasets presented by the firm
+Global Alpha Researcher Part of the GAR program at Trexquant
+Trexquant Investment e Responsible for researching financial literature to develop market neutral alphas
+(Sep 22 — Oct 22) e Identified trading signals that produced abnormal returns in the US futures market
+Teaching Assistant Teaching assistant under the guidance of G Phanikumar for an applied programming course
+Scientific Computing Course e Conducted sessions to teach concepts of the course to a class of 50+ students
+(Apr 21 —Jul 21) e Cleared doubts in tutorial sessions and assisted in the assessment of assignments
+Better Algos for FVS Under the guidance of Akanksha Agrawal, CS Dept, IIT Madras
+B.Tech & Dual Degree Project e Towards obtaining an improved deterministic algorithm for feedback vertex set problem
+(Jan 23 - Ongoing) e Using treewidth and treedepth decompositions of a graph to achieve this goal
+Accelerator for Ray Tracing Building an accelerator for Ray Tracing on FPGA | Electronics Club
+CFI Project e Built a functional demonstration of a ray tracer for rendering spheres and triangles in C++
+(Mar 21 — Mar 22) e Enhanced speed and performance by parallel programming using Nvidia's CUDA toolkit
+Determines the percolation threshold of a 2D lattice using python
+Percolation Visualizer e Demonstrates Quick Weighted Union Find Algorithm
+
+e Used matplotlib to plot percolation statistics and visualized the percolation using tkinter
+COMPETITIONS AND HACKATHONS
+
+Runner up in the Shaastra Micro Mouse Maze challenge
+
+e Used a streamlined variation of DFS for exploration and Dijkstra’s algorithm to backtrack
+
+Reverse Coding Secured 1°, 1*t and 4"" place in the past 3 years in Shaastra’s reverse coding event",,,,,,"Administrative head of the institute sports team for the academic year 2021-22
+
+e Spirit Captain of College nationals held in Bangalore. 5"" place out of 14 teams in India
+
+e Handled club’s budget and lead a team of executives to popularize the sport inside Institute
+
+Hobbies | enjoy Ultimate frisbee, solving puzzles, running marathons and playing games
+
+Micro Mouse Maze
+
+Frisbee Club Convenor
+(Jun 21 — May 22)",,"Indian Institute of Technology, Madras
+
+GitHub: github.com/krishna122356 LinkedIn: https://www.linkedin.com/in/krishna-somasundaram/
+ Program Institution CGPA / % Year
+Dual Degree in Electrical Engineering | IIT Madras 8.91 | 2024
+Minor in Computing IIT Madras 9.25 2024
+Xl 96.4% | 2019
+JEE Advanced: AIR 1426 | KVPY Scholar Branch Changed to Electrical Engg
+Probability Foundations Al: Search Methods for Problem Solving* Deep Learning for Imaging
+Advanced Graph Algorithms Approximation Algorithms Database Management System*
+Linear Algebra for Engineers Convex Optimization GPU Programming
+Introduction to Computer Networks Introduction to Operating Systems* Infrastructure Finance
+Languages Python, Java, JavaScript, C, C++, CUDA, BASH, MySQL, MATLAB
+Libraries NumPy, matplotlib, pandas, tkinter, react, prefect, dagster, OpenCV, imutils
+Miscellaneous Tools Git, Latex, Lyx"
+JP MORGAN CHASE & CO._software (1).pdf_,2024-25,Jp,OCR p[1]+text,,,"PROGRAM %/CGPA COMPLETION
+B.Tech Computer Science and lia 8.37 2024
+Engineering
+
+XII-TSBIE 96.1% 2020
+X-CBSE 94.2% 2018","Software Engineering Intern at Uber India May 2023 - July 2023
+«Worked on a new feature for an internal tool used by the marketing department at Uber.
+* Designed and created the backend for creating and sending experiment reports to users.
+«Made a framework in which the email reports are configurable and are sent automatically on a schedule provided by the user.","UGRC - Program analysis and optimizations in StarPlat DSL Prof. Rupesh Nasre July 2023 - present
+e Perform data flow analysis and on the Abstract Syntax Tree which is used as the Intermediate representation in StarPlat.
+* Perform dead code elimination, liveness analysis on the AST.
+* Perform loop fusion and fission optimisations.
+
+CS2310 Course Project - Hack Computer Prof: Chandra Sekhar July 2021 - November 2021
+* Implemented basic Combinational Logic Circuits using nand2tetris for arithmetic operations in Hardware Description Language.
+* Further used them to implement a 16-bit Hack CPU that can perform various Arithmetic and Logical Operations.
+
+CS2610 Course Project - Pipelined Processor Simulator Prof. Madhu Mutyam January 2022 - May 2022
+¢ Designed and implemented a 5-stage scalar pipelined processor simulator in C++.
+¢ Understood its working and measured metrics like number of instructions, cycles, stalls etc.
+
+CS3300 Course Project - Minijava compiler Prof. K C Sivaramakrishnan July 2022 - November 2022
+* Built a modular mini-java compiler in Java using Flex and Bison.
+* Implemented various components such as tokenization, type checking, IR generation and code generation.
+
+CS3205 Course Project - OSPF Routing Prof. Sutanu Chakraborti January 2023 - May 2023
+
+¢ Implemented a simplified version of the Open Shortest Path First routing protocol.
+* Created a program which spawns multiple processes, one for each part of the protocol, all of which run in parallel.
+
+CS6370 Course Project - Basic Search Engine Prof. Sutanu Chakraborti January 2023 - May 2023
+
+* Made a basic search engine for the Cranfield dataset and analysed its performance.
+* Started from a basic vector space model and then updated it toa Linear Semantic Analysis Model.
+
+CFI Project - Cache Oblivious Algorithms July 2021 - March 2022
+e Learned about and implemented Cache Oblivious Algorithms.
+«Implemented efficient Cache-Oblivious Priority Queue data structure.
+¢ Tested performance and cache efficiency against traditional algorithms.
+
+Personal Project - OpenGL renderer May 2022 - July 2022
+* Learned about the OpenGL graphics API and implemented a basic renderer in C++.
+* Created a test framework using ImGui for testing various features such as colours, textures, transformations, lighting etc.
+
+Personal Project - Software Ray Tracer May 2022 - July 2022
+¢ Learned about rendering using ray tracing techniques.
+¢ Implemented a basic software ray tracer in C++ with features like antialiasing, materials etc.","Project Member in Programming Club July 2021 - March 2022
+• Worked as project member on ""Implementing efficient Cache-Oblivious Priority Queue data structures in C++""
+• Presented the project along with my teammates at CFI open house 2022.","* Secured All India Rank 600 in JEE Advanced 2020
+
+¢ Secured All India Rank 1104 in JEE Mains 2020
+
+e Awarded KVPY Scholarship in SA-2018 (Rank 402) and SX-2019 (Rank 296)
+
+* Qualified for and participated in Residential Science workshop 2017 conducted by Dr AS Rao Awards Council.
+
+¢ Selected for and participated in CCMB Young Innovators Program 2017.
+
+¢ Received Sandhya Gondhalekar Award and Sunil Mehta Memorial Award at Junior Science & Mathematics Olympiad 2017.","• Discrete Mathematics for Computer Science • Basic Graph Theory
+• Programming and Data Structures • Design and Analysis of Algorithms
+• Language Machines and Computations • Computer Organization and Architecture
+• Object-Oriented Algorithms Implementation and Analysis Lab • Compiler Design
+• Paradigms of Programming • Database Systems
+• Operating Systems • Computer Networks
+•Pattern Recognition and Machine Learning • Natural language processing
+•Foundations of Cryptography** • Randomised Algorithms**
+
+• Languages: C, C++, Go, Java, Python, OpenGL
+• Software: Git, LaTeX, Linux, AutoCAD,
+• Codeforces Profile: chathur_b (max rating - 1446)
+ ** - ongoing courses",,•Won the 1st place in LitSoc '22 Valorant Tournament (along with 5 more team members).,,"Indian Institute of Technology, Madras
+Github : chathur018"
+JP MORGAN CHASE & CO._software (2).pdf_,2024-25,Jp,OCR,8.75,,,"Quantitative Research intern, NK Securities Research
+May 2023 - Jul 2023 | Gurugram, India
+* Pairs Trading project - Devised and implemented pairs trading strategies for two
+correlated stocks by exploiting arbitrage opportunities.
+* Ideated, researched, and backtested various methods to identify statistically
+significant pairs.
+* Utilized statistical tools and quantitative analysis to assess market co-movements
+and optimize entry/exit signals for pairs trades.
+
+Contingent Member, /nter //T Tech Meet 11.0
+Jan 2023 - Feb 2023 | |IT-Kanpur
+* Route planning for optimised on-time delivery - part of algorithm design team.
+Collaborated to devise and implement a scalable solution to real life logistics
+routing problem.
+
+Software developer, Logistic Lab, //T Madras
+Jan 2022 - Mar 2022 | IIT-Madras
+« Member of vehicle space sharing module's coding and algorithm vertical.
+« Designed and implemented algorithm for providing optimal fleet management and
+routing for logistics operations.
+
+fm PROJECTS
+
+Undergraduate Research Project, under Prof Rupesh Nasre
+Jul 2023 - present
+« Capacitated Vehicle Routing Problem (CVRP) -
+
+- Working on extending and developing better heuristic algorithms for solving the
+capacitated vehicle routing problem (CVRP) for large inputs (upto size ~1M) and
+also execute in reasonable time.
+
+- The algorithm will be parallelised wherever possible using OpenMP to improve on
+the execution time.","« Macro Java Compiler - Compiler Design (CS3300) - Oct 2022
+- Built a compiler to translate Macro Java(subset of Java) to MIPS assembly
+consisting of five stages: lexical analysis, typechecking, IR Generation, register
+allocation, MIPS code generation.
+« OSPF routing protocol and GBN transmission protocol - Computer Networks
+(C$3205) - April 2023
+- Implemented a simplified version of the Open Shortest Path First (OSPF) routing
+protocol and the Go-back-N reliable transmission protocol.
+¢ Super Scalar Processor Simulator - Computer Architechture (CS2610) - April 2022
+- Built a working pipeline (superscalar) processor simulator performing the basic
+operations of Instruction fetch, decode, execute, memory, and write back. Also
+handled structural, data, and control hazards.
+e 16-bit Hack CPU and Hack ALU - Computer System Design (C$2310) - Oct 2021
+- Built a computer simulator using Hack CPU and ALU for 16 - bit integers and
+floating point numbers for performing the basic arithmetic and logical operations.","Strategist, Programming Club, CFI-IITM
+May 2022 - Apr 2023
+« Organised the in-house events and contests
+related to competetive programming. Made
+youtube editorials for the codeforces contests.
+Mentor of a Programming club project -
+Visualizer library.
+
+Coordinator, Programmig Club, CFI-IITM
+May 2021 - Apr 2022
+* Conducted Summer Programming Camp for
+500+ students from IIT-Madras teaching basic
+programming and algorithms related to
+competitive programming.
+* Conducted 3 coding mock tests for students
+sitting for placements.","Joint Entrance Examination (JEE) Advanced 2020 - AIR 106.
+
+Kishore Vaigyanik Protsahan Yojna (KVPY) 2018 - AIR 155.
+
+National Talent Search Examination (NTSE 2018) Scholar.
+
+Qualified InPhO -2020 in top 35- Conducted by Homi Bhabha Centre for Science
+Education (HBCSE).
+
+« Codeforces - Max Rating 1711 (Expert).
+e Codechef - Max Rating 1991 (4-star).
+e ICPC 2022 : (team - Codemons)
+- Kanpur-Mathura Prelims - AIR 77 (out of
+1000+) and 4th in college.
+« ICPC 2021 : (team - Codemons)
+- Gwalior-Pune regionals - AIR 169 (out of
+1000+).
+- Amritapuri Prelims - AIR 677 (out of 7000+).
+« Google Coding Events:
+- Google Hashcode 2022 qualifiers-Global
+rank 651 (out of 10000+).
+- CodeJam 2022 Round 1C - Global rank 823.
+- Kickstart 2021 Round G - Global rank 1949.
+¢ Qualified for round 2 in Meta Hacker Cup 2021
+and 2022.
+e Codeforces Round #794 (Div. 2)- Global rank
+387.
+
+li, COURSES
+
+CSE and related courses
+* Programming with Data structures. (+ lab)
+* Design and analysis of algorithms
+* Object-Oriented Algo Implementation and
+Analysis
+Probability, Statistics, and Stochastic Process
+Computer organization and architecture
+Language, Machine and Computations
+Compiler Design
+Operating Systems
+Database and Management Systems
+Paradigms of programming languages
+Pattern Recognition and Machine learning
+Secure Systems Engineering
+Computer networks
+Foundations of Cryptography*
+Non linear optimisation* *= ongoing","Languages
+C,C++ (proficient), Python (well versed)
+
+Libraries
+C++: STL, Python: Numpy, Pandas, Matplotlib,
+Tensorflow, Scikit-Learn
+
+Others
+HTML, Javascript, LaTeX, Autocad, x86 assembly
+language",,"« Member of NSS (National Social Service).
+
+« Played tabla in school and participated in
+national events.
+
+« Hobbies include playing chess, and football.
+Also an amateur gamer.",,"B.Tech, Computer Science, IIT Madras
+
+Linkedin | Codeforces | CodeChef
+
+fj EDUCATION
+
+Indian Institute of Technology Madras, B.Tech - Computer Science
+Dec 2020 - present
+« CGPA- 8.75"
+JP MORGAN CHASE & CO._software (3).pdf_,2024-25,Jp,OCR,,,"Program| snstitute CGPA
+B.Tech in Electrical Engineering Indian Institute of Technology, Madras 2024
+Class XII (TSBIE*) | 94.5% 2020
+Class X (CBSE) f} 91% 2018
+
+Walmart Sparkplug 2022 One among the top 150 students out of 10,342 to secure an internship at Walmart INC
+
+Walmart PPO Received a Preplacement Offer from Walmart Global Tech India for the role of Software Engineer II.
+JEE Advanced 2020 Secured All India Rank 185° in Joint Entrance Examination Advanced 2020
+
+JEE Mains 2020 Secured All India Rank 732° in Joint Entrance Examination Mains 2020
+
+JNV Entrance Exam 2016 One among the top 8 students out of 1039 to clear the entrance test of JNV 2016","SRE and DevOps Internship at Walmart Global Technology Services India
+
+¢ Applied Service Level Objectives (SLOs) and Service Level Indicators (SLIs) to design a robust
+monitoring and alerting system for MINT Price Crawling Architecture.
+¢ Performed in-depth analysis of microservices metrics and defined specific Service Level Indicators
+
+Implemented Site
+Reliability Techniques in
+MINT Crawling Pipeline
+
+(SLIs) to evaluate service outcomes and performance.
+
+e Leveraged Grafana and Prometheus to create a real-time dashboard, tracking service availability
+and remaining error budget against defined SLOs.
+
+¢ Implemented an efficient alerting mechanism to notify stakeholders promptly when error budget
+degradation occurred.
+
+¢ Successfully integrated Jenkins with Prometheus Alert Manager and Spotlight, streamlining the
+
+alerting process for services' metrics breaches.
+
+Jenkins Integration with ¢ Configured Prometheus rules yaml file to define alert generation criteria, ensuring timely
+Prometheus notifications for any metric threshold breaches.
+
+¢ Implemented seamless webhook integration between Prometheus Alert Manager and Jenkins,
+
+automatically triggering Jenkins Jobs upon receiving relevant alerts.","¢ Collaborated with Prof. Boby George to design a sensor module that identifies road potholes,
+Integrated Pothole records their locations, and alerts approaching vehicles.
+Detection Sensing Module* | * This project involves creating a suspension-based sensing device for vehicles to detect potholes
+(B.tech Project) through sudden suspension movement. It gathers GPS location data, analyses and updates a central
+server with pothole information, and alerts other vehicles on the same road to avoid collisions.
+
+e Executed Walmart's future sales prediction through time series forecasting, encompassing data
+preparation, insightful visualization, and correlation analysis.
+Walmart Sales Prediction ¢ Utilized a range of time series analysis techniques, assessing models like Naive Approach, Moving
+(ML based Project) Average, Holt's Linear Trend, Holt Winter's, and ARIMA.
+
+¢ Concluded Naive Approach as the superior model, showcasing minimal Mean Absolute Error and
+underlining time series analysis efficacy in understanding and predicting sales trends.
+¢ Implemented a Hospital Management System to manage and record the complete database of a
+Hospital Management hospital.(Patients, Doctors, Nurses, and other staff)
+
+System (C++ Project) ¢ Applied Object-Oriented Programming (OOP) principles to securely wrap data and streamline
+tasks, ensuring a strong structure and smooth operations in the hospital system.
+
+¢ Developed Python-based project utilizing Modified Nodal analysis to analyze electrical circuits,
+
+_. extracting unknown voltages and currents from .netlist files containing node voltages, currents, and
+Circuit Solver controlled sources (VCVS, CCVS, VCCS, CCCS).
+
+(Course Project) ¢ Implemented efficient algorithms to process and perform required calculations, accurately
+
+determining the circuit's unknown values of voltages and currents.
+
+RELEVANT COURSEWORK |
+
+TECHNICAL SKILLS |
+
+POSITIONS OF RESPONSIBILITY |
+¢ Spearheading the largest team of Saarang, comprising 25-30 coordinators and 100 volunteers.
+Super-Coordinator Safety | * Devising comprehensive security policies and strategies to manage over 7000 attendees during
+
+and Security, Saarang 2023 | professional shows.
+(Jun-2022 to Feb 2023) ¢ Overseeing Safety & Security measures for a footfall of 70,000+ people across 500 colleges
+nationwide and ensuring end-to-end planning and execution of crowd management methods.
+
+Coordinator Safety and
+Security, Saarang 2022.
+Dec-2021 to Feb 2022
+
+¢ Successfully supervised the security arrangements for various workshop events and a professional
+show during Saarang 2022.
+
+EXTRACURRICULAR ACTIVITIES |
+Sports - NSO Completed rigorous training in Weightlifting as part of the National Sports Organisation.
+Proudly represented Alakananda Hostel in the Inter Hostel Weightlifting Competition and achieved
+Inter-Hostel 2023 es as
+a commendable 3rd position in the competition.
+I have taken up a role as a Chegg expert during my free time, successfully tackling queries in the
+
+Bh NE ch fields of Mathematics, Computer Science, and Economics.
+
+Superscripts: ° ST- Category Rank, * Presently Ongoing (Not yet Completed)",,,,,,,"INDIAN INSTITUTE OF TECHNOLOGY MADRAS
+GitHub: https://github.com/]-Yashwanth
+
+LinkedIn: https://www.linkedin.com/in/jarupla-yashwanth-8750ab229"
+JP MORGAN CHASE & CO._software (4) .pdf,2024-25,Jp,OCR,,,(Minor in Computing) *,"e Leveraged SAS and SQL to examine banking reports, implemented segment trees model (using Python) for the
+identification of money laundering and terror financing activities; Worked on Financial Data Analysis
+
+) « Formulated novel risk analysis protocols for evaluating customer profiles and strengthening fraud detection
+e Upgraded existing systems, resulting in a 5% increase in accuracy for the reduction of false positives
+
+Analyst'*)
+@Axis Bank
+Software Engineer « GlowRadius optimizes revenue pipeline and targets high-potential accounts; B2B startup in marketing sector
+@GlowRadius e Led a successful API integration, connecting the client's CRM to HubSpot CRM, utilizing Node.js and Express.js
+(Dec’21 to Feb’22) e Achieved a 30% improvement in search results using NLP (Natural Language Processing) models like N-grams
+
+Time Lapse Data ¢ Created a category-specific time series data visualizer for YouTube to monitor trends relevant to YouTubers
+Visualizer e Automated the backend to clean and process raw YouTube data for dynamic time-series data visualization
+@Google e Established hierarchical relationship between the data using layered structure and data compression
+
+sly’22 to Aug’22) Designed word cloud with scaled weights based on the frequency of words for better observability of trends
+
+Crypto Trading ® Created a C++ crypto trading system with the time-frame-wise order book execution and matching algorithm
+Simulator e Employed object-oriented programming, including static functions, classes and error handling for reliability
+(Personal Project) link « Implemented features like importing orders from CSV, tracking wallet balances, and rapid bid-ask resolution
+
+e Performed time series analysis and deep learning on Microsoft Stock's Price using Y-Finance data in Python
+« Employed data cleaning and smoothing methods; implemented ARIMA and GARCH models on closing price
+e Used CNN!) Model to achieve a remarkable 90% accuracy rate with 1000 epochs with 2 neural network layers
+
+Stock Price Forecasting
+(Personal Project) link
+
+CPU Implementation | ¢ Implemented ALU with 8-bit integer operations, 12-bit floating point arithmetic, and 8-bit comparator
+(Course Project~CS2610) | « Designed 12-bit register file with 8 registers, 2 read ports, and 1 write port; Implemented Cache-Simulator
+
+Porting RTOS on Shakti | * Porting Nuttx (open-source POSIX-based RTOS) to Shakti (open-source initiative by RISE) group @IIT-Madras)
+(Research Project) * e Incorporating ShaktiSDK's bare metal code (low-level code) into Nuttx to support I2C, UART and SPI protocols
+(Dr. V. Kamakoti, CSE |/T-I\i) e Porting ContikiRTOS and SafeRTOS for enhanced loT connectivity leveraging the power of RISC-V architecture
+
+Logistics Optimization | * Collaborated in a 5-member team to build a delivery system, focusing on ReactJS front-end development
+(Research Project) * Developed a graphical distributed backend using TypeGraphQL (Typescript), PostgreSQL Database, TypeORM
+(Prof. Narayanaswamy, CSE IlT-lVl) | # Coded 2 pages of Landing Page with another developer from Figma design and Build Redux store for 3 entities
+
+« Developed an app for connecting like-minded people at IIT Madras through opportunities and events
+e Designed and built GraphQL APIs for CRUD operations in the app using TypeGraphQL and PostgreSQL
+e Worked on the app from ideation to successful launch, with 1000+ downloads and 4.9 rating on PlayStore
+
+COURSEWORK ( *- ongoing course)
+
+Computer Science: Programming and Data Structures, Operating Systems, Computer Organization and Architecture, Machine Leaning
+(Andrew NG - Coursera) *, Time Series Analysis, Non-Linear Optimization*, System Commands (Linux), Numerical Methods, Object Oriented
+Programming-C++, Version Control System — Git and GitHub
+
+Instispace
+(CFI Project) link
+
+Mathematics: Multivariate Calculus, Series and Matrices, Probability, Statistics and Stochastic Process, Linear Algebra",,,"e CodeChef Rating: 2013 [5 star]; Global rank 35** Rank Starters 87 Division 2; Global rank 73™ Rank Starters 82 Division 2 [link]
+e CodeForces Rating: 1598; Secured 435** Rank in Codeforces Round 879 out of 24000 participants(Div 2) [link]
+e Secured the 6th position in Alphaverse Premier League, a competition organized by Alphagrep, by developing 35 alphas
+
+e Rank in the top 3% in Worldquant Brain and leading to a research consulting opportunity for extraordinary performance
+e Secured 99.29 percentile in JEE MAINS among 1.2 million candidates",,,"e Successfully represented IIT Madras in 10th Inter IIT Tech Meet as contingent member in 2 teams : Digital Alpha's SEC Filing
+Analyser and Mercari's Large Scale System Design for Healthcare
+
+e Science Popularization Website @ NSS IITM'): Led a team of 6 developers to buid a tool for promoting Science in rural areas. This
+enables kids to learn science experiments through interactive quizzes and assignments. Created PostgreSQL Database with rest APIs in
+NodeJS and ExpressJS. Guided 2 volunteers in front-end dev in React and Material-UI, implemented Redux Store for state management
+
+e Project Management Coordinator @ Nirmaan""): Assisted students in launching their startups by providing guidance through various
+means such as conducting sessions and arranging mentorship events; Also organized 2 flagship events and 5 interview
+
+rent Systems Engineering",,Linkedin | GitHub | Portfolio
+JP MORGAN CHASE & CO._software .pdf,2024-25,Jp,OCR,,,"Program Institute % | CGPA
+B.Tech in Computer Science Engineering Indian Institute of Technolog 8.10 2024
+Class XII (IPE) 94.7 Yo 2020
+Class X (Telangana State Board) 10 2018","@ Worked with PLS (Product Lifecycle Support) Team under WorldWide Returns and Recomm Tech and made 3
+API’s overall in the backend service section.
+
+e Used smithy models to first make a relevant data model and then made accessors and builders to modify data from
+dynamoDB to the user and vice-versa.
+
+e This is used in the website for manufacturers to submit their support and also used by the different teams in the
+
+WWRR Team.
+
+SDE summer intern
+Amazon
+(May’23 — Jul’23)",,"Events Head, Computer Science Association, IIT Madras (Feb’23-May’23)
+e Leaded a team of thirteen to organise and ideate department specific events like CS trophy, Tshirt and Logo design competitions.
+e Conducted placement talk for the students in the department in collaboration with the Placement Team, IITM.
+
+Sports Secretary, Saraswathi Hostel, IIT Madras (Apr’22-Apr 23)
+e Strategized and implemented several plans and improved the sports facilities of the hostel and to cater to the needs of the hostellers like
+
+having good equipment to play sports regularly inside hostel and encouraged to participate in inter hostel tournaments.
+
+e Conducted intra-hostel event for different sports and made teams for inter-hostel tournaments.
+
+Super-Coordinator, Saarang Media, IIT Madras (Dec’22-Mar ’'23)
+e Strategized and lead the team of 15 for cinematography and video-editing for saarang proshows 2023.
+e Coordinated coordinators, assigned various sectors, and ensured that job was completed.
+e Made logo animations and daily highlights in pre and post saarang times.
+
+Mock DNS Server
+
+Propensity Model
+
+E-Commerce Website","@ Qualified for JEE Advance and secured a position in top 0.3% among 1.1 million participants.
+@ Qualified for KVPY among 1.5 lakh participants.
+e 4 star coder with a rating of 1801 at codechef.",,"Programming and Data Structures © Computer Networks Basic Graph Theory Pattern Recognition & MachineLearning*
+Design and Analysis of Algorithms Paradigms of Programming Principles of Economics Fundamentals of Operational Research
+Object Oriented Programming Operating Systems Natural Language Processing Probability,Statistics &Schocastic Process
+Database Management Systems Computer Architecture Discrete Mathematics Introduction to Data Analytics
+
+Languages: C, C++, Python, Java(Beginner), SCHEME, MySQL, HDL, x86 Assembly, smithy, git.
+Libraries: NumPy, Pandas, Matplotlib.
+Softwares & Operating Systems: Nand2Tetris, AutoCAD,Linux, Windows, MacOS.
+
+e Implemented a simple hierarchical Domain Name Server ( DNS ) system, with a client, name resolver, root
+server, Top Level Domain (TLD) server and authoritative servers in python.
+The goal of this research was to demonstrate how the entire DNS system functions. A communication channel
+was established with the client’s system and all the servers, and all the databases were formed.
+
+e The entire mock DNS operates and outputs to the system when a system requests an IP address for a desired
+
+| domain from a user. To demonstrate how many requests are generated, all of the requests are also logged.
+
+e Project was about building a propensity model for issuing credit cards in a fictional company called PayBuddy
+
+e = Itisa binary classification problem identifies if a millennial is likely to apply for a credit card in PayBuddy or
+not.Cleaned and analysed data to implement the clasification algorithms ranging from low level to advanced
+algorithms like extreme gradient boost(XGBoost),
+
+e We ended up getting 6th position in terms of AUC and in top 3 position in terms of KS score among all the
+
+|___ participants.
+
+e Built an E-commerce website with some limited data in django using HTML, CSS and little bit of js.
+A new user can signup into website with verification through email which is used while recovering his/her
+password and complete is signup process.
+
+e A user can maintain his cart items and proceed through dummy payment. A user can do most of the things done
+in a regular E-commerce website.","Part of HEXAPOD Team in iBot 2021.
+
+Selected and underwent training in NCA(National Cultural Arts) Choreo.
+
+Secured Ist position in Dodgeball Competition conducted as part of CS trophy 2022.
+Represented Pampa hostel for Frisbee and Squash in schroeter 2023.",,INDIAN INSTITUTE OF TECHNOLOGY MADRAS
+Microsoft_Software_1 .pdf,2024-25,Microsoft,OCR p[1]+text,,,"Program Institution %/CGPA Year
+M.Tech. (Computer Science and Engg.) Indian Institute of Technology Madras 8.14 2024
+Integrated M.Tech. (IT) 8.19 2022
+Xllth Std. - CBSE 75.80% 2017
+Xth Std. - CBSE 8.6 2015","SDE Intern, Samsung Research Institute-Bangalore May 2023 - Jul 2023
+Mentor: Pawan Kumar
+
+© Researched about designing and implementing Extended Triple Diffie-Hellman key agreement protocol.
+
+© Successfully incorporated Randomized Key Generation in pre-built end to end encryption protocol for in-house chat
+application.","MTech Project: Concurrent Data Structures. Aug 2023 - present
+Mentor: Prof. Rupesh Nasre, Team size: 1 MTech Project
+
+© Designing parallel union-find data structure by exploiting.
+© Optimizing it for various parallel programming frameworks, including OpenMP, MPI, and CUDA.
+© Using it in parallel algorithms such as connected components and community detection.
+
+© Incorporating the optimized Union Find structure into the StarPlat domain specific language (DSL), amplifying the
+StarPlat’s capabilities in graph analysis and manipulation.
+© Benchmarking performance against the state-of-the-art implementations and large real-world graphs.
+
+GPU-Accelerated Level-by-Level Graph Traversal. Feb 2023 - Mar 2023
+Instructor: Prof. Rupesh Nasre, Team Size : 1 CS6023 - GPU Programming
+
+© Implemented a level-by-level graph traversal algorithm suitable for parallel execution on GPUs.
+
+© Utilized CUDA threads and blocks to process graph nodes at different levels in parallel, effectively exploiting the
+GPU's massive parallel processing capabilities.
+© Managed synchronization between threads to maintain the correct traversal sequence.
+
+Parallel Matrix Operations using CUDA Jan 2023 - Feb 2023
+Instructor: Prof. Rupesh Nasre, Team size : 1 CS6023 - GPU Programming
+
+© Utilized CUDA threads to distribute matrix elements across the GPU cores for concurrent computation.
+
+© Exploited memory coalescing to optimize memory access patterns, reducing memory access latency and improving
+overall throughput.
+© Used thread synchronization techniques to ensure accurate computation and data consistency.
+
+Custom Big Integer Library for Arithmetic Operations in C+ + . Aug 2022 - Sep 2022
+Instructor: Prof. Yadu Vasudev, Team size : 1 CS6150 - Advanced Programming
+
+o Designed and implemented a comprehensive custom big integer library in C++.
+© Implemented robust error handling mechanism to address scenarios such as division by zero.
+
+Travelling Salesman Problem Aug 2022 - Sep 2022
+Instructor: Prof. Deepak Khemani, Team size: 2 CS6380 - Artificial Intelligence
+
+© Implemented Genetic algorithms using various Crossover operators and Mutation operators on Travelling Salesman
+Problem that finds the most optimum TSP path.","{ Coordinator, Placement and Internship Team for MTech, IIT Madras, 2023 - 24
+{ Teaching Assistant for Programming and Data Structures course(CS2710) at IIT Madras (July-Nov, 2023).
+{ Teaching Assistant for Design and Analysis of Algorithms(CS2800) at IIT Madras (Jan-May, 2023).
+{ Teaching Assistant for Programming and Data Structures course(CS2705) at IIT Madras (July-Nov, 2022).
+{ Class Representative for M.Tech CSE (Batch of 2022) at IIT Madras.
+{ Mentor and Instructor, Gate @ Zeal, Feb- 2022 - June-2022.
+{ Co-founder, Nerdherd Coding Community, Indore, May - 2022.","{ Secured all India rank of 343 in ‘GATE in Computer Science 2022’
+{ Successfully qualified the BARC OCES/DGFS’22 All India Exam.
+{ Regional finalist in Tata Crucible National Biz Quiz contest.
+{ Secured Top 10 in State-Level Quiz Competition organized by Yono App (SBI Bank)(2019).","{ Programming Languages: C, C++, Cuda Programming.
+{ Libraries and Others: SQL, HTML, CSS, Git, Github.","{ Theory: Advanced Data Structures and Algorithms.
+{ Programming: Advanced Programming Laboratory, GPU Programming.
+{ Intelligent Systems: Artificial Intelligence.
+{ Networks: Security in Cyber Physical Systems.
+{ Mathematics: Linear Algebra and Random Processes.
+{ Others: Digital System and Testable Design.
+
+{ Systems:Operating Systems, Computer System Organization.
+{ Networks: Data Communication
+{ Database:Relational Database Management Systems.
+{ Programming: Object Oriented Programming using C++, Data Structures and Algorithms using C++","{ Swimming
+{ Scrolling twitter feed
+{ Music
+
+ 2/2",,"cOF TECH,
+ae , We
+
+“
+
+& ‘O',"
+Microsoft_Software_2.pdf_,2024-25,Microsoft,OCR,,,,"Software Development Engineer Intern
+
+Amazon India,
+Hyderabad IN « Created a single page application in dev tool to help developers work much faster.
+
+May -Jul ‘23 ® Reduced the time taken in doing work from 4 days to 2 hours approx.
+© Skills involved Python, ReactJs, AWS services, pyTest, CDK.
+Freelance Developer
+
+Freelance Developer, e Created a website (https://freeatzeal.com) for a coaching institute to deliver their content online.
+Mar-Jun ‘22 e Also created a private admin panel to upload and manage data.
+« Skills involved Python, Reactls, Redux, AWS EC2.",,"Teaching Assistant, ® Teaching Assistant of C53500 Operating Systems (Jul - Nov ‘22)
+IIT Madras ® Teaching Assistant of CS2800 Design and Analysis of Algorithm (Jan - May ‘23)
+Jul ‘22 — Present e Teaching Assistant of CS6015 Linear Algebra and Random Processes (Jul - Nov ‘23)
+
+Mentor e | Qualified GATE CSE 2021, 2022 with AIR 135, AIR 343 respectively.
+GateAtZzeal e Mentored around 500 Students of a GATE preparation coaching institute.
+Jul ’21 —Jun ‘22 * Created question set and answer sets for preparation of students.
+
+« JavaScript Algorithms and Data Structure by FreeCodeCamp, Front-End Dev Libraries by FreeCodeCamp",,"Programming and Scripting | Python, JavaScript, Golang, C++
+Languages
+Web Development XML, HTML, CSS, ReactJS, Redux
+
+ Git, Docker, Kubernetes, AWS services, SQL, PyTest, Pandas, Hyperledger fabric, Blockchain, WebSocket, Rest APIs, Microservices
+Coursework (UG + PG) Data Structure and Algorithms, Operating System, Database Management System, GPU Programming, Advanced Programming, Fundamentals
+of Computer Networks, Securities in Cyber Physical Systems, Digital System Testing and Testable Design
+
+This is ongoing project under guidance of Prof. John Augustine.
+
+We aim to develop a blockchain-based e-commerce platform focused on selling unique experiences and services. This platform will offer
+a range of offerings, including mentorship, courses, yoga classes, music sessions, counselling sessions, and more.
+
+The blockchain technology will likely be employed to enhance transparency, security, and trust within the e-commerce ecosystem,
+allowing users to buy and sell these personalized experiences with confidence and transparency.
+
+Technology used are Blockchain, Golang, ReactJS.
+
+Ecommerce for Experience
+
+Created four GPU-accelerated programs/ algorithms that serve diverse computational purposes under guidance of Prof. Rupesh Nasre.
+The first efficiently calculates the Kronecker product of matrices A and B by harnessing GPU parallelization, reducing execution time for
+large-scale matrix operations.
+
+The second conducts matrix transposition, multiplication, and addition in parallel, significantly speeding up linear algebra operations.
+The third implements a parallel breadth-first search algorithm on graphs with constraints, efficiently exploring nodes while adhering to
+specific conditions.
+
+The fourth program optimizes computer and student scheduling by leveraging GPU parallelism, delivering faster and scalable solutions
+for resource allocation and constraint management in complex scenarios.
+
+Parallel Algorithms in GPU
+
+We want to create a social media platform similar to Instagram, where users can share photos, text, ideas through posts or stories. Users
+will have the ability to follow other users and engage in chat conversations, mirroring key features of Instagram's photo-sharing and social
+networking capabilities.
+
+Technologies used are JavaScript, ReactJS, NodeJS, WebSocket.
+
+My Instagram
+
+We intend to develop a music website that offers a wide range of music categories for listening. The website will encompass several
+features, including playlist creation and deletion, adding songs to favourites, liking and disliking music, searching for specific tracks, and
+the ability to play entire playlists.
+
+In essence, it's a comprehensive music streaming platform designed to provide users with an immersive music listening experience.
+Technologies used are Python, Django.",,"© Co-ordinated the event Food Fest of Annual function (Aavriti) at IPS Academy (Affiliated to RGPV Bhopal).
+Activities e Won Second prize in Rangoli competition at Senior Secondary School.
+« Lead the High School all activities as Head Boy of the school for almost 3 years.",,"| integrated MCA | | zsccrA | Jul 17 - Jun ‘22
+| Senior Secondary (xi) pf 948% ul 15 -Jun 47 |
+po High School (X) P| 925% dul 14 Jun “15
+
+e Received Student of the batch 2022 award at IPS Academy.
+Scholastic Achievements © District Topper in XII with 94.8% in PCM category.
+« Won First prize in chemistry and Second prize in physics at science exhibition in Senior Secondary."
+Microsoft_Software_3.pdf_,2024-25,Microsoft,OCR,8.83,,,"Goldman Sachs
+SDE Analyst Intern
+
+e Worked on Sky Microservices which enable the use of public cloud
+services across Goldman Sachs
+
+&) May '23 - July '23
+9 Bangalore
+
+« Incorporated Image Promoting Functionality to existing microservices
+in AWS cloud for spinning up VM instances
+
+e Implemented production-grade code with rigorous unit testing and
+pushed code to release within the internship period","Find a Friend
+
+&3 June '22
+
+C++
+
+e Algorithmic Grouping of people into groups of sizes 2 - 5
+based upon their interests and personality. Designed and
+Implemented algorithms from scratch using C++
+
+fA Apr '23
+Python
+e Implemented a simplified version of Open Shortest Path
+First (OSPF) routing protocol
+
+e Simulated the Go-back-N reliable transmission protocol
+and measured the round-trip delays (Cumulative ACK’S
+were used).
+
+Implemented Network Protocols
+Guide: Prof. Krishna Sivalingam
+
+&S Aug - Nov ’22
+flex & Java
+
+MiniJava Compiler
+Guide: Prof. K.C. Sivaramkrishnan
+
+e Built a compiler to translate MiniJava (a subset of Java)
+code to MIPS assembly instructions
+
+e The compiler comprised of five stages: lexical analysis,
+type checking, IR generation, register allocation and MIPS
+assembly code generation
+
+&) Apr ’22
+C++
+
+Scalar Pipelined Processor
+Guide: Prof. Madhu Mutyam
+
+e Simulated a 5 stage Scalar Pipelined processor based on
+RISC Architecture in C++
+
+Hack CPU (8) Sep '21
+
+Guide: Prof. Chandra Sekhar RISC, Nand2Tetris
+
+e Implemented basic Combinational Logic Circuits using
+Nand2Tetris for Arithmetic operations
+
+e Used the above to build 8-bit Hack ALU that performs
+various Arithmetic and Logical operations","DevOps Senior Developer
+Saarang, IIT Madras
+
+fi) Aug '23 - Ongoing
+9 Chennai
+
+e Currently working on frontend and backend of various
+websites of Saarang, IIT Madras
+
+JEE Mentor
+Avanti Fellows, Pondicherry Chapter
+
+ Dec '21 - Feb '22
+9 IIT Madras
+e Member in a team of 40 helping XI! and XII students from
+
+Economically weaker section to get into Top Engineering
+institutes like IITs and NITs.","e Secured an All-India Rank - 684 out of more than 0.2 million students in
+JEE Advanced 2020
+
+e Secured an All-India Rank - 531 out of more than 1.1 million students in
+JEE Main 2020
+
+e Secured Rank - 66 out of more than 0.14 million students in TS EAMCET-
+2020
+
+e Recipient of Al.Tech scholarship","C C++ Java = Spring Boot Python
+SQL Linux Git x86 AWS — REST APIs
+Kubernetes MongoDB Spock YAML
+HTML Javascript TEX","e Pattern Recognition and Machine Learning*
+« GPU Programming
+
+e Introduction to DBMS
+
+« Computer Networks
+
+e Secure Systems Engineering
+
+e Operating Systems
+
+« Compiler Design
+
+e Language Machines and Computations
+e Paradigms of Programming
+
+e Computer Architecture
+
+e Design and Analysis of Algorithms
+
+e Object-Oriented Programming (OOPS)
+e Discrete Mathematics
+
+e Modern Application Development
+
+« Probability and Statistics
+
+e Introduction to Game Theory
+
+e Principle of Economics","« Volunteered in multiple Social Service activities and Awareness campaigns
+
+as part of NSS
+e Enthusiast in Photography and Filmmaking",,"fj EDUCATION
+
+B.Tech CSE CGPA - 8.83 & 2020 - 2024
+Indian Institute of Technology, Madras
+ 2020
+ 2018"
+Microsoft_Software_3.pdf_.docx,2024-25,Microsoft,docx,8.83,,,"Goldman Sachs 
+SDE Analyst Intern 
+May '23-July '23 Bangalore 
+• Worked on Sky Microservices which enable the use of public cloud services across Goldman Sachs 
+• Incorporated Image Promoting Functionality to existing microservices in AWS cloud for spinning up VM instances 
+• Implemented production-grade code with rigorous unit testing and pushed code to release within the internship period","B.Tech CSE 
+CGPA - 8.83 
+2020-2024 
+Find a Friend 
+Indian Institute of Technology, Madras 
+2020 
+2018 
+INDIAN INSTITUTE 
+OF 
+TECHNOLOGY 
+सिद्धिर्भवति 
+कर्मजा 
+MADRAS 
+June '22 
+C++ 
+• Algorithmic Grouping of people into groups of sizes 2-5 based upon their interests and personality. Designed and Implemented algorithms from scratch using C++","DevOps Senior Developer 
+Saarang, IIT Madras 
+Aug '23 - Ongoing 
+Chennai 
+• Currently working on frontend and backend of various 
+websites of Saarang, IIT Madras 
+JEE Mentor 
+Avanti Fellows, Pondicherry Chapter 
+Dec '21 - Feb '22 
+IIT Madras 
+• Member in a team of 40 helping XI and XII students from Economically weaker section to get into Top Engineering institutes like IITs and NITS.","• Secured an All-India Rank - 684 out of more than 0.2 million students in JEE Advanced 2020 
+• Secured an All-India Rank - 531 out of more than 1.1 million students in JEE Main 2020 
+• Secured Rank - 66 out of more than 0.14 million students in TS EAMCET- 2020 
+• Recipient of Al.Tech scholarship","C C++ Java 
+SQL 
+Spring Boot 
+Python 
+Linux Git 
+(86) AV 
+AWS 
+REST APIs 
+YAML 
+Kubernetes MongoDB Spock 
+HTML Javascript ATEX","• Pattern Recognition and Machine Learning* 
+• GPU Programming 
+• Introduction to DBMS 
+• Computer Networks 
+• Secure Systems Engineering 
+• Operating Systems 
+• Compiler Design 
+• Language Machines and Computations 
+• Paradigms of Programming 
+• Computer Architecture 
+• Design and Analysis of Algorithms 
+• Object-Oriented Programming (OOPS) 
+• Discrete Mathematics 
+• Modern Application Development 
+• Probability and Statistics 
+• Introduction to Game Theory 
+• Principle of Economics","• Volunteered in multiple Social Service activities and Awareness campaigns as part of NSS 
+• Enthusiast in Photography and Filmmaking 
+Implemented Network Protocols 
+Guide: Prof. Krishna Sivalingam 
+Apr '23 Python 
+• Implemented a simplified version of Open Shortest Path First (OSPF) routing protocol 
+• Simulated the Go-back-N reliable transmission protocol and measured the round-trip delays (Cumulative ACK'S were used). 
+MiniJava Compiler 
+Guide: Prof. K.C. Sivaramkrishnan 
+Aug - Nov '22 flex & Java 
+• Built a compiler to translate MiniJava (a subset of Java) code to MIPS assembly instructions 
+• The compiler comprised of five stages: lexical analysis, type checking, IR generation, register allocation and MIPS assembly code generation 
+Scalar Pipelined Processor Guide: Prof. Madhu Mutyam 
+Apr '22 
+C++ 
+• Simulated a 5 stage Scalar Pipelined processor based on RISC Architecture in C++ 
+Hack CPU 
+Guide: Prof. Chandra Sekhar 
+Sep '21 RISC, Nand2 Tetris 
+• Implemented basic Combinational Logic Circuits using Nand2 Tetris for Arithmetic operations 
+• Used the above to build 8-bit Hack ALU that performs various Arithmetic and Logical operations",,
+Microsoft_Software_4.pdf_,2024-25,Microsoft,OCR,,,,,,,,,,,,"p Program —“‘a;SSSC“‘(#)T”CésInsttitute =O tCid|C CH CGPA Csr __
+ Indian Institute of Technology, Madras
+| Minor in Computer Science (AI& ML)*__—| ———<mem ——9/10 | 2024
+| Class XII (Telangana State Board) |
+| Class X (Telangana State Board) |
+
+e Participated in NASA-Space Settlement Contest-2016 with a team of 10 members; Authored a book on designing a space settlement
+@ Achieved top 1.8% (out of 2.5 lakhs) in JEE Advanced 2019 and ranked among the top 0.23% (out of 12 lakhs) in JEE Main — 2019
+e = Secured a National level Rank of 16 in the CLB Science Talent Search Examination conducted by CLB Awards Council in 2012
+
+@ Pattern Recognition and Machine Learning @ Fundamentals of Deep Learning e Image Signal Processing
+e Probability, Statistics & Stochastic Processes | e Artificial Intelligence in Manufacturing* | @ Principles of Economics
+@ PG Program in Al & ML - Purdue University® | @ Data Structures and Algorithms e@ Introduction to Motion Planning
+
+Programming and
+Software
+
+Cambridge Mobile Compressed sensor data into lower-dimensional vectors for classification models predicting rare car driving events
+
+Python - Pandas, Numpy, Matplotlib, OpenCV, Sklearn, PyTorch, Keras, Tensorflow, OpenAl Gym, NLTK; C, C++, Java,
+PostgreSQL, Matlab, Mathematica, AutoCAD, Fusion 360, Siemens Tecnomatix, CopeliaSim, ROS, Simulink, AWS
+
+Telematics e Proposed a data aggregation method that reduces the trip data size from 8MB to 7KB (80 Dimensional vectors)
+(Founded by MIT Alumni) | # Analysed 1M+ USA trip records using PostgreSQL; Employed Amazon Sagemaker for architectural development
+Data Science Intern e Devised LSTM-based architecture to predict rare trip events from compressed data, yielding notable PR-AUC 0.95
+May 2023 — July 2023 | e Conducted in-depth research on reconstructing 3D models from provided video feeds using GANs and PyTorch3D
+
+Tata Consultancy Delivered Proof of Concept for Vision-based fluid level identification in chemical lab to TCS Research's chief scientist
+Services e@ Engineered Computer Vision structure to automate medical injection process by identifying syringe fluid volume
+Research and e@ Employed image processing methods: segmentation, dilation, erosion, and contour detection on the video feed
+Development Intern | e Evaluated performance, comparing Pytesseract, EasyOCR, and Keras-OCR, and optimised hyperparameters
+May 2022 - July 2022 | & Applied ML regression models for precise fluid volume prediction, achieving a remarkable +0.01ml error accuracy
+Systemantics India Devised motion planning strategies, integrating intermediate waypoints to optimise travel time and path blending
+
+Pvt. Ltd @ Created a Sequence Diagram for ASYSTR 5C cobot utilizing UMLet Software to visualize system interactions.
+Robotics Intern e@ Implemented quaternion mathematics for efficient handling of joint rotations within Cartesian coordinate system
+Nov 2022—Dec 2022 |e Successfully implemented and debugged the prescribed motion planning methodology in the NetBeans IDE
+
+Autonomous Medical |e Enhancing automated surgery by implementing an Al Framework on da Vinci Research Kit medical surgery robot
+Surgery Robot(DDP""™)* | © Utilising MONAI™! tools, ROS"", and AMBEF™! simulator for video feed segmentation and needle position localization
+Guide: Dr. Nirav Patel | ¢ Directing efforts towards automating the suturing process by integrating Reinforcement Learning (RL) Frameworks
+
+Seq2Seq Model e Developed an Encoder-Decoder model English to Hindi translation using RNN, GRU, and LSTM architectures
+Course Project (CS6910) | e Integrated Encoder-Decoder with attention mechanism and fine-tuned the hyperparameters using wandb
+Guide: Dr. Mitesh Khapra| ¢ Achieved a test accuracy of 40.2% using the attention model and 45.9% by combining attention with beam search
+
+CNN®! Models e Created a custom CNN model classifying 10 species in the iNaturalist dataset and achieved 39.4% test accuracy.
+Course Project (CS6910) | e Attained 78.6% accuracy by employing Xception, ResNet50O, InceptionV3, and InceptionResNetV2 models.
+Guide: Dr. Mitesh Khapra| ¢ Leveraged pre-trained YOLOv3 model to enhance object detection capabilities, enabling improved visual analysis
+
+Fetal Head Segmentation] @ Built an Encoder-Decoder and UNet models from scratch in Pytorch to segment fetal head in the ultrasonic image
+Course Project (ID5030) | ¢ Attained 94% dice score on training and 92.3% on testing datasets by optimizing various hyperparameters
+
+Email Spam Classifier |e Implemented from scratch A-regularised logistic regression to predict email spam with model f1 score of 96.68%
+Course Project (CS5691) | e Performed text pre-processing, SelectKBest feature selection, and hyperparameter tuning using nltk and sklearn
+Multiple Mobile Robots | e Utilized BFS, DFS, and A* algorithms in space-time coordinates to solve Multi-Robot path planning problems
+Course Project (ED5215) | Managed Edge Clash and Deadlock scenarios, optimizing cost and node expansions for efficient motion
+Movie Recommendation] ¢ Developed an advanced movie recommendation system using the versatile Restricted Boltzmann Machine
+
+Sept 2022 (Self Project) | #¢ Applied collaborative filtering methods, demonstrating deep learning expertise through PyTorch implementation
+
+Strategist (2021-22) | Successfully organised and led the Summer School, engaging over 400 members; Conducted Mini-Project sessions
+Coordinator (2020-21) for IIT Madras students, fostering hands-on learning. Played a pivotal role as Strategist in the Triphibian Project
+
+iBot Club | CFI | e Presented about Wireless controlled Robot and PCB designing during Inter-club and Intra-club Projects Meet
+IIT Madras e Guided iDeate-The Socio-Robotic Thinkathon team, aiding in report-making for automatic modular granary project
+
+Coordinator (2019-2020)| ¢ Organised Alleviate Event: A 3-round competition addressing real-life issues using cost-effective solutions
+Social Wing | MEA”! | e Facilitated School Student Group Discussions, selecting five finalists from our native area for the concluding round
+ e Ranked top 10 in IIT Madras' NSO Badminton trials among 700+ students; District-level player in Rangareddy Dist.
+
+Athletics @ Secured 4"" position in MADrush race 2020 held at IIT Madras and selected for NSO-Athletics (400m) at IIT Madras
+
+[*]-Ongoing; [#] - Online Certification Program; [1] DDP - Dual Degree Project; [2] MONAI - Medical Open Network for Artificial Intelligence; [3] ROS - Robot Operating System;
+[4] AMBF - Asynchronous Multi-Body Framework; [5] CNN - Convolutional Neural Network; [6] CFI - Center for Innovation; [7] MEA - Mechanical Engineering Association"
+Microsoft_Software_4.pdf_.docx,2024-25,Microsoft,docx,8.81,,"Institute 
+% / CGPA 
+Year 
+Indian Institute of Technology, Madras 
+8.81/10 
+2024 
+9/10 
+2024 
+98.2% 
+2019 
+10/10 
+2017","Compressed sensor data into lower-dimensional vectors for classification models predicting rare car driving events 
+• Proposed a data aggregation method that reduces the trip data size from 8MB to 7KB (80 Dimensional vectors) Analysed 1M+ USA trip records using PostgreSQL; Employed Amazon Sagemaker for architectural development 
+• Devised LSTM-based architecture to predict rare trip events from compressed data, yielding notable PR-AUC 0.95 
+• Conducted in-depth research on reconstructing 3D models from provided video feeds using GANs and PyTorch3D 
+Delivered Proof of Concept for Vision-based fluid level identification in chemical lab to TCS Research's chief scientist 
+• Engineered Computer Vision structure to automate medical injection process by identifying syringe fluid volume 
+• Employed image processing methods: segmentation, dilation, erosion, and contour detection on the video feed 
+• Evaluated performance, comparing Pytesseract, EasyOCR, and Keras-OCR, and optimised hyperparameters 
+• Applied ML regression models for precise fluid volume prediction, achieving a remarkable ±0.01ml error accuracy 
+Devised motion planning strategies, integrating intermediate waypoints to optimise travel time and path blending 
+• Created a Sequence Diagram for ASYSTR 5C cobot utilizing UMLet Software to visualize system interactions. Implemented quaternion mathematics for efficient handling of joint rotations within Cartesian coordinate system 
+• Successfully implemented and debugged the prescribed motion planning methodology in the NetBeans IDE","• Enhancing automated surgery by implementing an Al Framework on da Vinci Research Kit medical surgery robot Utilising MONAI[2] tools, ROS(3), and AMBF4] simulator for video feed segmentation and needle position localization 
+• Directing efforts towards automating the suturing process by integrating Reinforcement Learning (RL) Frameworks 
+•Developed an Encoder-Decoder model English to Hindi translation using RNN, GRU, and LSTM architectures Integrated Encoder-Decoder with attention mechanism and fine-tuned the hyperparameters using wandb Achieved a test accuracy of 40.2% using the attention model and 45.9% by combining attention with beam search 
+Created a custom CNN model classifying 10 species in the iNaturalist dataset and achieved 39.4% test accuracy. Attained 78.6% accuracy by employing Xception, ResNet50, InceptionV3, and Inception ResNetV2 models. Guide: Dr. Mitesh Khapra⚫ Leveraged pre-trained YOLOV3 model to enhance object detection capabilities, enabling improved visual analysis Fetal Head Segmentation. Built an Encoder-Decoder and UNet models from scratch in Pytorch to segment fetal head in the ultrasonic image 
+Course Project (ID5030) Attained 94% dice score on training and 92.3% on testing datasets by optimizing various hyperparameters 
+Course Project (CS6910) 
+Email Spam Classifier 
+Course Project (CS5691) 
+• Implemented from scratch 2-regularised logistic regression to predict email spam with model f1 score of 96.68% Performed text pre-processing, SelectKBest feature selection, and hyperparameter tuning using nltk and sklearn 
+Utilized BFS, DFS, and A* algorithms in space-time coordinates to solve Multi-Robot path planning problems Managed Edge Clash and Deadlock scenarios, optimizing cost and node expansions for efficient motion 
+Developed an advanced movie recommendation system using the versatile Restricted Boltzmann Machine 
+Multiple Mobile Robots. Course Project (ED5215) 
+Movie Recommendation Sept 2022 (Self Project) 
+Strategist (2021-22) Coordinator (2020-21) iBot Club | CFI[6] | IIT Madras 
+Coordinator (2019-2020) Social Wing | MEA[7] 
+Badminton 
+Athletics 
+• Applied collaborative filtering methods, demonstrating deep learning expertise through PyTorch implementation","Successfully organised and led the Summer School, engaging over 400 members; Conducted Mini-Project sessions for IIT Madras students, fostering hands-on learning. Played a pivotal role as Strategist in the Triphibian Project 
+• Presented about Wireless controlled Robot and PCB designing during Inter-club and Intra-club Projects Meet 
+• Guided iDeate-The Socio-Robotic Thinkathon team, aiding in report-making for automatic modular granary project Organised Alleviate Event: A 3-round competition addressing real-life issues using cost-effective solutions 
+• Facilitated School Student Group Discussions, selecting five finalists from our native area for the concluding round","Participated in NASA-Space Settlement Contest-2016 with a team of 10 members; Authored a book on designing a space settlement Achieved top 1.8% (out of 2.5 lakhs) in JEE Advanced 2019 and ranked among the top 0.23% (out of 12 lakhs) in JEE Main - 2019 Secured a National level Rank of 16 in the CLB Science Talent Search Examination conducted by CLB Awards Council in 2012 
+•",,"Fundamentals of Deep Learning 
+• Pattern Recognition and Machine Learning 
+• Probability, Statistics & Stochastic Processes • Artificial Intelligence in Manufacturing* 
+• PG Program in AI & ML - Purdue University"" 
+Programming and Software 
+Cambridge Mobile 
+Telematics 
+(Founded by MIT Alumni) 
+Data Science Intern 
+May 2023-July 2023 
+Tata Consultancy Services 
+Research and 
+Development Intern May 2022-July 2022 
+Systemantics India Pvt. Ltd 
+Robotics Intern 
+Nov 2022 - Dec 2022 
+Autonomous Medical 
+Surgery Robot(DDp[1])* Guide: Dr. Nirav Patel Seq2Seq Model 
+Course Project (CS6910) Guide: Dr. Mitesh Khapra CNN[5] Models 
+• Data Structures and Algorithms 
+Image Signal Processing Principles of Economics Introduction to Motion Planning 
+Python - Pandas, Numpy, Matplotlib, OpenCV, Sklearn, PyTorch, Keras, Tensorflow, OpenAI Gym, NLTK; C, C++, Java, PostgreSQL, Matlab, Mathematica, AutoCAD, Fusion 360, Siemens Tecnomatix, CopeliaSim, ROS, Simulink, AWS","• Ranked top 10 in IIT Madras' NSO Badminton trials among 700+ students; District-level player in Rangareddy Dist. 
+• Secured 4th position in MADrush race 2020 held at IIT Madras and selected for NSO-Athletics (400m) at IIT Madras 
+[*]-Ongoing; [#] - Online Certification Program; [1] DDP - Dual Degree Project; [2] MONAI - Medical Open Network for Artificial Intelligence; [3] ROS - Robot Operating System; [4] AMBF - Asynchronous Multi-Body Framework; [5] CNN - Convolutional Neural Network; [6] CFI - Center for Innovation; [7] MEA - Mechanical Engineering Association",,"Program 
+B.Tech in Mechanical + IDDD in Robotics Minor in Computer Science (AI & ML)* Class XII (Telangana State Board) Class X (Telangana State Board)"
+Microsoft_Software_5 .pdf,2024-25,Microsoft,OCR p[1]+text,,,"Program Institution %/CGPA Year
+M.Tech. (Computer Science and Engg. i 8.17 2024
+B.E. (Computer Engg.) 9.34 2022
+XII Std. - CBSE 94.00% 2018
+X Std. - ICSE 94.16% 2016","1. Advanced Application Engineering Intern June 2023 - July 2023
+Accenture, Bangalore Internship
+
+© Developed a machine learning model to estimate the optimal office location out of all offices in the city where the
+employee lives, based on travel times to workplaces in that city over a period of time and a variety of other factors.
+
+© This model proves to be very essential for employers and employees making a return to the offices post covid in metro
+cities.
+
+2. Framework Engineer Intern(Data Engineering) Jan 2022 - June 2022
+
+Quantiphi Analytics Solutions Pvt. Ltd., Mumbai Internship
+
+© Got trained on Snowflake Technology for data warehousing and ETL tools (IICS).
+
+o Made Business Intelligence reports on Tableau.
+
+© Cleaned raw data, loaded it into data warehouses, performed ETL and identified use cases and then made reports on
+
+them.","1. Long-Term Climate Prediction using DL. Aug 2023 - Ongoing
+Mentor: Asst. Prof. Chandrashekar Lakshminarayanan, Team size : 1 M.Tech Project, 11ITM
+
+© Motive: Long-Term Climate Prediction task aims at improving current forecasting framework for Rainfall Prediction
+in India with its main focus on Drought and Flood prediction.
+
+© Approach: Initially, an autoregressive model was applied to the ISMR Dataset, which was then followed by an LSTM
+that improved in areas with high error and a ConvLSTM that divided regions of India into grids to assist collect both
+temporal and spatial information and further improve the model.
+
+2. DisQus - Your Query Solving Partner. June 2021 - Dec 2021
+Mentor: Asst. Prof. Jyoti Haveliya, Team size : 3 B.E. Project
+
+© An application that allows posting queries and solutions to queries which can further be verified. Allows people to
+send team invites(for hackathons or projects) to other people they find perfect for the job to be done.
+o Made using Java Spring, React and MySQL database. Majorly worked on the backend - the Profile Service.
+
+1. CS6910: Foundations of Deep Learning. Jan 2023 - May 2023
+Faculty: Prof. Mitesh Khapra, Team size : 1
+
+© Recurrent Neural Networks(RNN): A transliteration system using encoder-decoder technology was developed
+using multi-layered RNN, LSTM, and GRU networks. Constructed single-layer attention networks and examined how
+attention overcame the shortcomings of traditional seq2seq models. Heatmaps of attention were plotted and analyzed.
+Used the Aksharantar Dataset for Training the model and tuned the Hyperparameters using the wandb.ai tool.
+
+{ Feed Forward Neural Networks(FNN): Implemented Feed Forward Neural Network with Backpropagation from
+ scratch. Implemented optimizers like Stochastic Gradient Descent, Momentum Based Gradient Descent, Nesterov
+ Accelerated Gradient Descent, RmsProp, Adam and Nadam. Trained the whole model over MNIST and Fashion-MNIST
+ Dataset and hypertuned the parameters using wandb.ai tool.
+
+2. CS5691: Pattern Recognition and Machine Learning. Oct 2022 - Nov 2022
+Faculty: Prof. Arun Rajkumar, Team size : 1
+{ Email Classifier: Implemented a Email Classifier(Spam/Ham) from scratch using Naive Bayes.
+{ Foundational Machine Learning Methods(from scratch): Principal Component Analysis, K-means, Expectation-
+ Maximization algorithm, Gradient Descent and its variants, Linear and Ridge Regression.","{ Teaching Assistant: Paradigms of Programming(Aug-Dec, 2022), Natural Language Processing(Jan-May, 2023),
+ Topics in Compiler(June-Ongoing, 2023) at IIT Madras.","{ Secured All India Rank of 128 in ‘GATE in Computer Science 2022’ out of 80K candidates.
+{ District Topper in ICSE Class 10th Board Examinations 2016.","{ Programming Languages: Python, C, C++.
+{ Tools and Libraries: LATEX, NumPy, Pandas, PyTorch, WandB.
+{ Databases: MySQL.","{ Theory: CS5800-Advanced Data Structures and Algorithms.
+{ Programming: CS6150-Advanced Programming.
+{ Intelligent Systems: CS5691-Pattern Recognition and Machine Learning, CS6910-Fundamentals of Deep Learning.
+{ Mathematics: CS6015-Linear Algebra and Random Processes.
+{ Systems: CS6330-Digital Systems and Testable Design, CS5410-Security in Cyber Physical Systems
+
+{ Systems: Operating Systems, Computer Organization and Architecture.
+{ Networks: Computer Networks.
+{ Database: Relational Database Management Systems.
+{ Programming: C Programming, Data Structures and Algorithms.","{ Received various certificates for extempore speech competitions, poster making and debate.
+{ Received certificates for social work from Non-governmental organization - Smile Foundation.
+
+ 2/2",,
+Microsoft_Software_6.pdf_,2024-25,Microsoft,OCR p[1]+text,8.38,,"Program Institution 0/CGPA Year
+
+M.Tech in CS Indian Institute of Technology, Madras 8.38/10 2022-2024
+
+B.Tech in CS 8.94/10 2018-2022
+
+HS (Class 12) 78.60% 2018
+
+Class 10 88.71% 2016","SDE intern at Amazon India May 2023 - July 2023
+Got internship offer within one month of joining ITT Madras Bangalore, India
+
+© Internship with the Registration and Core Services Team at Amazon Bangalore. Implemented a redirection feature which
+is currently deployed to production environment on the Amazon Worldwide Seller Central, which automatically
+redirects seller from Add new bank account page to the account verification page. This implementation improves customer
+experience and reduces time and effort in verifying bank accounts. The framework did not inherently support redirection.
+Using WebLabs (selective deployment), we eventually deployed redirection feature to sellers.
+
+© In our implementation, we found one edge case for which our redirection feature was incomplete. To solve this problem, I
+designed and implemented foundational API changes along with suggestions from SDE-I and SDE-III. These code
+changes migrated logic from service orchestration package to service management package, which then calls service
+orchestration package based on certain parameters. This movement of orchestration logic into management service is a
+foundational code change that is a stepping stone toward team vision.
+
+Teaching Assistant at CS Department, ITT Madras August 2022 - July 2024
+
+Introduction to programming, Object Oriented Programming, C++ Advanced Programming
+
+o Taught various computer science courses at IIT Madras, including CS6150 Advanced Programming Lab in C++
+for incoming CS Masters students, CS2810 Object Oriented Design Lab for second-year CS B.Tech students, and
+CS1100 Introduction to Programming for incoming B.Tech students various departments at ITM through JEE
+Advanced. Responsibilities encompassed designing questions, conducting classes, teaching, automated test-case
+generation, and verifying student-submitted code.
+
+Publications
+
+Python basics to get started book Spring 2020
+
+Over 400+ five star ratings, Available on Google Play
+
+o Python Basics to get started is an introductory Python book for first-year students to start with Python programming.
+With over 20,000 copies sold in the last three years, my Python introduction book is widely used by my juniors from
+B.Tech college and received over 480+ five-star ratings.","AKHCRNet April 2020 - October 2020
+Independent Research Government College of Engineering and Ceramic technology
+{ AKHCRNet is a state-of-the-art deep neural architectural solution for handwritten character recognition for Bengali alphabets.
+ Gained eight citations, including researchers from IITs.
+@sosleafy News Bot Jun 2021
+Python, GitHub Actions Cron Jobs, RestAPI Government College of Engineering and Ceramic Technology
+{ @sosleafy is a Twitter account and a telegram group where every 3 hours, a bot posts fresh news content run via GitHub
+ actions. Using Github actions and Cron jobs, the script takes new news content from the web and puts it in a GitHub
+ repository. Then once every three hours, another cron job is scheduled to post new news content on Twitter and Telegram,
+ setting the GitHub repository as the news source. In it’s operation @sosleafy posted over 11K tweets on twitter and
+ currently shut down.
+placeholderfile in pip package manager October 2020
+Python installable package with Pip Government College of Engineering and Ceramic Technology
+{ placeholderfile is a random filename and UUID generator installable via pip.",,"{ Successfully qualified GATE CS (2022) with over 98.5 percentile,
+{ Became Course topper and Elite + Silver Medal in NPTEL Cloud computing course conducted by IIT Kharagpur,
+{ Got 70% in Theory of computation NPTEL Course conducted by IIT Kanpur.","o Languages: C, C++, Python, Java, GoLang © Web: Python-Flask, Springboot
+© Database Systems: MySQL PostgreSQL, NoSQL o Systems: Docker, Redis, CI/CD
+
+Key Research and Technical Projects
+
+Master’s Research Project in Theoretical Computer Science July 2023 - May 2024
+Theoretical Computer Science, Graph Theory, Graph Coloring Indian Institute of Technology, Madras
+
+o Researcher in the Theoretical CS group, IIT-M, collaborating with Dr. B. V. Raghavendra Rao.
+o Broadly studying the complexity of graph packing coloring problems. Designing, architecting, and implementing several
+schemes for packing coloring in degree-bounded trees and other special graphs.
+
+Large Scale Distributed Notification System June 2023 - August 2023
+GoLang, Python, Large Scale Distributed systems design, Database technology Indian Institute of Technology, Madras
+
+{ This notification service implementation can scale up to millions of customers to reliably deliver notifications. The primary
+ purpose of such a service is to provide central or local government or police the ability to deliver disaster notifications to
+ millions of residents.
+{ Built on Golang and Python, the main notification service is divided into four services RepositoryService, AuthorizationSer-
+ vice, PersistentStoreService, Publisher and Subscriber, each runs in their docker container, and are independently scalable.
+ System Design, HLD, and other documentation can be found online.
+AmbientBuddy June 2023 to July 2023
+Tailwind CSS, Vanilla JavaScript, ElectronJS Indian Institute of Technology, Madras
+{ Beautifully designed AmbientBuddy is a macOS, Windows-based meditation app that has 30+ ambient sounds built into
+ it. AmbientBuddy has the best design among all available ambient apps and works offline. AmbientBuddy is designed to
+ work offline so that users don’t require an active connection to listen to the audio.
+{ Audios are also customizable; users can mix multiple sounds and re-adjust volumes of multiple audio to listen to a calming
+ experience. AmbientBuddy has a beautifully designed landing page, and the code is open-sourced.
+algorithms.theroyakash.com Feb 2022 to Today
+Free interview preparation platform Indian Institute of Technology, Madras
+{ Used by 650+ users from all over the world, these are materials for coding interviews, has over 150+ interview questions
+ with detailed explanations on several data structures and algorithm concepts. It is a starting point for many bachelor and
+ master in computer science students to start their interview preparations.
+AKDSFramework Nov 2020 - Sep 2021
+Python Package with PIP Government College of Engineering and Ceramic Technology
+{ Pure pythonic, efficient implementations for all popular data structures and algorithms. AKDSFramework provides one-line
+ benchmarking tools, an easy-to-use one-of-a-kind Big O analyzer, and a caching decorator.
+{ AKDSFramework has API to draw graphs from an AKDSFramework graph object (using mermaid-js API in Python, which
+ I contributed to the mermaid project). All run-able functions and modules are tested with Python unit tests using GitHub
+ actions. Framework documentation and open source code are available online.","Key Courses in M.Tech July 2022-May 2024
+(Core and electives) Indian Institute of Technology Madras
+{ Courses: Advanced data structures and algorithms, Randomized Algorithms, Computability, and Complexity theory,
+ Advanced Programming Lab, Probabilistic and Smoothed Analysis of Algorithms, Security in Cyber Physical Systems,
+ Digital System testing and testable design, Theory and application of Ontologies.
+Key Courses in B.Tech August 2018-April 2022
+(Core and electives) Government College of Engineering and Ceramic technology
+{ Courses: Theory of computation, Discrete Maths, Computer Networks, Compiler Design, Design and analysis of Algorithms,
+ Data Structures, Object Oriented design, Digital Logic, Computer Organizations, Operating Systems, Database management
+ systems, Machine learning, Deep learning.",,,
+Microsoft_Software_7.pdf_,2024-25,Microsoft,OCR p[1]+text,,,"M.Tech Computer Science and Engineering Indian Institute of Technology, Madras
+
+B.Tech Computer Science and Engineering }| 896 |
+Senior Secondary i 92.8%","e SDE Intern, HoneyWell | ENTIS Tank Inventory System May ‘23 - Jul ‘23
+
+© Developed a tank inventory system, where users get dynamic updates on tank data and can issue
+commands to the tanks to perform inventory control, oil movement and other tank operations.
+
+o Real time data is fetched from OPC-UA Server, processed and displayed on a React Frontend.
+
+© Tools/Technologies Used - Node, Express, React, Nginx, Websockets, OPC-UA, HTML, CSS, VSCode.
+
+e Research Intern, TCL | DDoS Attack Multi-Label Classification | M.Tech Project Aug ‘23 - Present
+
+© Detection and classification of DDoS attacks using Machine Learning and/or Deep Learning techniques.
+o NetFlow data from TCL routers is collected and analyzed for feature extraction and model development.
+o Multi-class classification for detection of attacks, which would be extended to Multi-Label classification.
+© Tools/Technologies Used - PyTorch, PyTorch Lightning, Python, Weights and Biases, Nprobe.
+
+e Project Trainee, Bhabha Atomic Research Center (BARC) Jun ‘19 - Aug ‘19
+
+o Developed an user interface for Battery Operated Thermo-Luminescence Reader (BOTLR V1.1), that
+allows users to input and edit different parameters and configurations to alter how the reader operates.
+
+o The user interface is integrated with the command line operating system used by BOTLR.
+
+© Jools/Technologies Used - C++.
+
+Projects and Publications
+e MARD Analysis | Data Race Detection Jan '23 - May ‘23
+
+© Implemented MHP Analysis for Race Detection Analysis (MARD) to detect data races in an input program.
+o An input program is first converted to Three-Address Code Representation using Soot API, followed by
+
+Points-to, Escape, Call Graph and May Happen in Parallel (MHP) Analysis.
+
+ • English to Hindi Transliteration Model | Deep Learning Jan ‘23 - May ‘23
+
+ ○ Developed an Encoder-Decoder Model for English to Hindi Transliteration using RNNs, GRUs and LSTMs.
+ ○ Teacher forcing, early stopping, cosine learning and other strategies were incorporated to improve accuracy.
+ ○ Incorporated attention mechanism, improving accuracy by ~5% and visualized insights using heatmaps.
+ ○ Tools/Technologies Used - PyTorch, Python, Weight and Biases.
+ • Encrypted Online File Storage Aug ‘23 - Sep ‘23
+
+ ○ Developed an online encrypted file storage system wherein users can upload, download and share files.
+ ○ Advanced Encryption Standard (AES) Algorithm was implemented to encrypt and decrypt files.
+ ○ Users receive email notifications on file sharing, access updates and account creation.
+ ○ Tools/Technologies Used - MERN (MongoDB, Express, React, Node) , HTML, CSS, JavaScript, SMTP.
+
+ • Nuclear Fallout Radiation Prediction | IEEE Publication I2CT 2021 Jul ‘20 - Apr ‘21
+ ○ Prediction and Visualization of Radiation Cloud, post Nuclear Fallout by analysis of world weather data.
+ ○ A simulation of the Nuclear Cloud for a two-week period is produced using FFmpeg and Matplotlib.
+ ○ User can input a date and location, after which the two-week simulation is displayed on the Flask UI.
+ ○ Tools/Technologies Used - FFmpeg, Python, Matplotlib, Flask, HTML, CSS, JavaScript.",,"• Teaching Assistant | CSE Department | IIT Madras • Deputy Placement Coordinator,
+
+ ○ Programming and Data Structures Lab (100+ students) IIT Madras.
+
+ ○ Computer Networks (90+ students) • Council Member,
+
+ ○ Pattern Recognition and Machine Learning (120+ students) Computer Society of India, SIESGST.","• Secured All India Rank 306 among 80k candidates with 99.6 percentile in GATE 2022.
+ • Finalist in Smart India Hackathon 2019.",,"• Analysis of Parallel Programs • Pattern Recognition and Machine Learning
+ • Advanced Data Structures and Algorithms • Deep Learning
+
+ • Advanced Programming Lab • Linear Algebra and Random Processes",,,
+Microsoft_Software_8.pdf _,2024-25,Microsoft,OCR,,,"Program Institution %/ICGPA Year
+BTech in Engineering Physics ITT Madras, Chennai 7.19 2020-24
+Class X (Maharashtra State Board) 97.20 2018
+Class XII (HSC board) 83.38 2020
+e JEE MAINS: Achieved remarkable 99.628 percentile overall, with 99.87 percentile in Mathematics.
+e Solved 500+ questions of Data Structures and algorithms on Leetcode, GFG and Codeforces.
+ACHIEVEMENTS | °_ Cleared Software Competency Test (SWC-Advanced) by Samsung R&D for working professionals.
+e Achieved Gold Level in WorldQuant Brain Global Quant Challenge showcasing quantitative skills.
+e SOF National Science Olympiad (NSO): Achieved an international rank of 447 and Zonal rank of 155.
+e Rationalist Talent Search Exam (RTSE): Accomplished a remarkable Maharashtra State rank of 10"",
+ PROFESSIONAL EXPERIENCE |
+Samsung R&D e Enhanced overall accuracy by automating log extraction processes, streamlining code testing efficiency.
+Bangalore e Developed a scalable automation script for consistent processing of expanding logs and parameters.
+Developer Internship |e Enabled insightful data analysis through automated mathematical computations on logs in the database.
+(May-Jul’23) e Enhanced network understanding by acquiring knowledge of LTE architecture and OSI model.
+Research Consultant |e Developed innovative mathematical models known as alphas contributing to improve trading strategies.
+at WorldQuant Leveraged advanced quantitative techniques to design and implement alphas, identifying market patterns.
+(Jul’23-present) e Applied data analysis to create alphas, unveiling market patterns and optimizing trading approaches.",,"Goldman Sachs e Promoted secure passphrases aligned with the industry best practices, enhancing overall protection.
+Software Engineering |e Adopted sophisticated advanced hashing algorithms and integrated salting for password security.
+Experience Program Strategically promoted password security through user education and secure passphrase advocacy.
+Algorithmic File e Developed efficient C++ text compression algorithm using Heaps, Binary Trees, HashMap, Priority
+Compressor Queue etc. data structures, with Huffman coding and achieved overall 20%-90% of compression.
+“etme si LaF e Implemented seamless decoding techniques for the retrieval of original text file, ensuring the data
+integrity. This was achieved by Optimized space utilization by using fewer bits for frequent characters.
+Motion Detector |¢ Created a motion detector with Wolfram Mathematica, detecting intensity changes with a webcam.
+(Course project) e Implemented a sound alert mechanism that triggers when the user moves away from the webcam's fov.
+GithubLink e Generated a visually informative graph that visually represents and highlights mobility patterns.
+Virtual ATM e Developed a virtual ATM machine program using Object Oriented Programming principles in java.
+Machine e Implemented user account creation with username and password, login, and signup functionalities.
+GithubLink e Enabled users to execute various transactions like balance inquiries, cash withdrawals, and deposits.
+Tic-Tac-Toe game |e Created a captivating Tic-Tac-Toe game, delivering an immersive interactive platform for two players.
+GithubLink e Built using the C++ programming language and leveraging the principles of an Object-Oriented
+Programming (OOPs), complemented by a strategic implementation of Data Structures like HashMap.",,,,"e Data Structures and Algorithms e Operating Systems e Programming in Modern C++
+e Introduction to Machine Learning e Foundation of Computational Physics * competitive programming
+e Analog Systems and Lab e Digital signal processing e Signals and Systems
+e Probability Foundations e Numerical Tech for Engineers e Principles of Economics
+ SKILLS |
+e Programming Languages: C++, Python, Java, HTML, CSS ¢ DBMS, SQL, MySQL, MATLAB, Jupyter Notebook
+e Problem Solving, LTspice, AutoCAD, Wolfram Mathematica e OOPs, Git, GitHub, VScode, MS-Word, Excel,IntelliJIdea","e §6Actively Participated in the G20 1st Education Working Group Meeting hosted at IITM Research Park, enriching insights.
+e Saathi mentor (Position of Responsibility): Mentored students in their first year throughout academic and co-curricular spheres.
+e Effectively taught Physics to 11"" and 12"" class students in rural areas as a part of NSS Edlearn program (EdJustice foundation)
+e Contributed by creating Mathematics Content for underprivileged students with Ignite community project (NGO Bhumi).",,
+Zomato_Software (2).pdf_,2024-25,Zomato,OCR,8.66,,"Program Institute % / CGPA Year
+
+Dual Degree - Electrical Engg. & Engg. Physics (Minor - Mathematics) Indian Institute of Technology Madras 8.66/10 2024
+Class XII (CBSE) 96% 2019
+
+| Class X (CBSE) 10.0/10.0 2017
+« Awarded department change for exemplary academic performance in the first semester - among the top 43 students (out of 1000+) 2019
+« Invited to Indian National Mathematical Olympiad (INMOQ) Training Camp for top 50 performance in Regional Mathematical Olympiad (RMO) 2018
++ Awarded scholarship by the Government of Karnataka for securing 9"" rank in the state level National Talent Search Examination (NTSE) 2016
+« Secured 40"" rank in Karnataka Common Entrance Test (KCET) out of 2 lakh candidates and 86"" rank in COMEDK out of 60K candidates 2019","Creating machine learning-based frameworks for forecasting the sales of newly introduced products in the Retail & CPG' industry
+
+| . Performed feature engineering based on nearest category clusters & introduced lag features to capture time series trends
+
+« Strategically split the data across distinct time frames and products, ensuring minimal data leakage & maximal data coverage
+» Attained ~61% WMAPE? accuracy with XGBoost & CatBoost by utilising Bayesian search via Optuna for hyperparameter tuning
+« Employed SentenceTransformers models to generate embeddings of item description, enhancing NN? performance to ~65%
+[* Analysed model interpretability through category-wise accuracy & feature importances like permutation importance & SHAP
+
+SymphonyAl
+R&D Intern
+May 2023 - Jul 2023
+
+Master's Thesis: “Accelerating Deep Learning using Photonic Processors”, under the expert guidance of Prof. Anil Prabhakar
+
+TCS Research « Aiming to design & build an integrated photonic processor to demonstrate enhanced computation speed & power efficiency
+Dual Degree Project _| « Investigated the realisation of ANNs’ on fully optical hardware via photonic mesh structures made of tunable beamsplitters
+Apr 2023 - Present « Incorporated a Fourier transform-based image preprocessing pipeline & ReLU-like electro-optic nonlinear activation function
+
+« Trained a feedforward network using simulated mesh layers for MNIST image classification, achieving accuracies of up to 92%
+| Detecting anomalous transactions in AML’ & fraud detection scenarios with quantum computers (IBM’s Quantum Grand Challenge)
+LTIMindtree | « Tackled anomaly detection for imbalanced data using Quantum-enhanced SVMs combined with undersampling techniques |
+Project Member « Constructed quantum circuits to efficiently compute the SVM kernel via quantum feature maps and quantum kernel methods
+Mar 2023 - Jun 2023 « Utilised PCA to select top 8 out of 17 features, reducing kernel estimation time by 4x with minimal compromise in recall score
+|° Implemented algorithms using Qiskit® and achieved a minority recall score of 0.9 on simulator and 0.65 on quantum hardware |
+
+Code/Astro GaiaCurves: An Open Source Python package that fetches star data and plots the light curves of variable stars in the Milky Way
+Caltech Summer Workshop | » Streamlined the process of querying the Gaia® data releases by resolving Gaia IDs of stars using only their generic star names
+Project Member « Enabled the cross-matching of a list of stars in one go with the SIMBAD astronomical database using the astroquery package
+Jun 2027 ~ Jul 2021 « Utilised Git for distributed version control, wrote scripts for unit and integration testing, built package using Setuptools & Twine","Represented IITM & were among the top 8 teams in /SRO’s Open Source Visualisation Tool for AstroSat Observations Challenge
+
+Inter-IIT Tech Meet | » Developed the Python based back-end of a visualisation tool used to cross-match and display characteristics of cosmic sources
+Mar 2027 « Devised a coordinate system transformation (from the Celestial to Geographic system) to represent the sources on a globe
+
+ntroduced an adaptive step-size algorithm for querying SIMBAD to resolve sources across multiple distinct star catalogues
+
+Pattern Recognition | « Explored, implemented and tested multiple classical machine learning algorithms from scratch & contrasted their performances
+& Machine Learning | » Created modules for Ridge Regression, SVM, RandomForest classifier & AdaBoost with grid search-type hyperparameter tuning
+
+Jul 2022 - Nov 2022 « Utilised gradient boosting & target encoding to predict customer ratings of hotel bookings, improving the baseline MSE’ by 43%
+Mathematical |. Modelled traffic dynamics on a micro-level through delay-differential equations; solved using Euler & Runge-Kutta methods |
+Modelling « Implemented SLIQ, a decision tree classifier from scratch & reported an accuracy of 80.32% on the Statlog (Australian) dataset
+
+Jul 2021 - Nov 2021 » Studied the performance of image filters like linear diffusion, Perona-Malik & Catte et al., obtaining a max PSNR® of 24.4793
+
+« Coded a basic SPICE clone in Python, capable of simulating circuits consisting of passive components & electrical power sources
+« Simulated the current flow and temperature gradient in a resistor by solving Laplace's equation using finite-difference method
+« Modelled a tubelight using Monte-Carlo simulations & plotted the electron distribution and photon intensity versus position
+
+Programming Lab
+Jan 2027 - May 2021","« Engaged the student community as well as the general public in Physics & Astronomy related seminars, events & competitions
+« Co-mentored a team of 13 & presented a neutron star-based project at CFl Open House 2022, covered by NDTV & India Today
+« Curated material & conducted a talk on “Hands-On Astronomy” for the CFl Summer School 2021, garnered over 100 participants
+« Delivered a seminar titled “27 cm line: A Cosmologist’s Measuring Tape”, with the aim of introducing basic cosmology to freshers",,"e Data Structures and Algorithms using Python
+« Combinatorics
+« Computer Methods in Electrical Engineering*
+e Principles of Economics
+Libraries: Pytorch, Tensorflow, sklearn, Pandas",,"Entrepreneurship « Co-founded OFFLOAD*, a 5 member startup with INR 2L pre-seed funding, automating file management for cloud/local storages
+
+« Pattern Recognition and Machine Learning
+« Deep Learning for Imaging*
+
+« Information Theory and Detection Theory
+« Linear Algebra for Engineers
+
+| Programming: Python, C++, MATLAB, MySQL
+
+e Probability, Statistics and Stochastic Processes
+e Advanced Stochastic Processes
+
+e Mathematical Modelling in Industry
+
+e Financial Markets*
+
+Software/Utilities: Mathematica, Git, WSL, LaTex |
+
+Horizon (CFI°)
+Strategist
+Apr 2021 - Apr 2022
+
+Winter School « Among the top 300 selected for the Physics of the Early Universe school at International Centre for Theoretical Sciences (ICTS)
+
+TechSoc"" 2020 |. Ranked among the top 4 teams in Physics Bowl, an inter-hostel competition that involves solving open-ended physics puzzles |
+Sports |’. Part of the top 30 students selected for Volleyball training for a year as a part of the National Sports Organisation (NSO) 2019 |
+Music |. Performed in an orchestra at the Sydney Opera House; played the recorder (a woodwind instrument) for an audience of 4000+ |
+
+“Ongoing course | ‘Consumer Packaged Goods | *Weighted Mean Absolute Percentage Error | *Artificial Neural Network | “Anti Money Laundering | 'Toolkit for quantum computing | ""Space mission collecting
+data of stars in the Milky Way | 7Mean Squared Error | ""Peak Signal-to-Noise Ratio | ""Centre for Innovation | “Inter-hostel technical competitions | *Not a registered entity",,ae Institute of Technology Madras ©
+Zomato_Software .pdf,2024-25,Zomato,OCR,8.74,,"Pp Program| —~—~—CSCSCSCésstitution = %/CGPA
+Dual Degree (B.Tech in Chemical Engineering . . Overall: 8.74/10
+and M.Tech in Computational Engineering) indian Institute of Technology, Madras M.Tech: 9.64/10 2024
+Class XII (CBSE) | | | | 96.2% 2019
+
+e Secured an All India Rank in Top 0.2% (99.84 percentile) in JEE Mains and All India Rank in Top 1.3% in JEE Advanced conducted by IIT Roorkee
+
+e Secured 20"" Rank in Karnataka Common Entrance Test (KCET) out of 2 lakh students and 7“ Rank in COMEDK UGET 2019 out of 60k students
+
+e Recipient of the coveted NTSE Scholarship 2017 awarded to 1000 students out of 1.2 million students from across India conducted by NCERT","NoBroker is the India’s first and only Property Technology Unicorn; a comprehensive solution to all property related needs
+
+NoBroker
+
+Product Analyst
+May 2023 —July 2023
+
+e Optimized Home Inspection pipeline resulting in a 23% increase in revenue month-on-month and 6x potential for output
+e Initiated and formulated from end to end, a chat-based feature “Comet Chat” resulting in a 10% increase in subscription
+e Analysed the InstaCash product funnel, visualized customer data on Kibana and achieved a 12% reduction in user drop off
+
+e Revamped user experience in the Rent Pay feature through competitor analysis, analysing customer data and NPS scores
+
+CAMS is India’s largest Mutual Fund Transfer Agency that provides MF Services & Statements to Banks, NBFCs, AFls, etc
+
+e Responsible for incorporating Neo Bank facility as part of the payment aggregator platform of CAMSPay (in production)
+
+e Conducted in-depth competitor analysis of India’s leading 6 Neo Banks and delivered strategic recommendations to CAMS
+
+e Analysed the company’s “Payment Gateway” and achieved a 7% drop off reduction by improving user journey experience
+
+Ramco Systems is an Indian multinational enterprise software company that offers Aviation, ERP, and Logistics software
+
+e Responsible for Battle Card preparation for the presales division resulting in a 15% increase in revenue month-on-month
+
+e Conducted a product analysis of their “Enterprise Resource Planning” software and identified its USPs, User Pain Points
+
+e Performed a competitor analysis of its top 5 competitors by using a sufficient set of KPls and suggested recommendations","“Rupture status analysis of Intracranial Aneurysms” under Dr. Prasad Patnaik B.S.V. (IIT Madras)
+
+e Generating 3D mesh models from a real-time medical imaging data from SCTIMST Med School using ANSYS and MeshLab
+
+e Obtained Recall of 0.93 in “Aneurysm Rupture Status Prediction” from blood fluid simulation and morphological analysis
+
+e Analysing 100+ rupture cases in depth; interpreting significance of aneurysm morphology by applying Feature Importance
+
+e Developed a RNN based ML algorithm used to determine the semantic similarity of two different pieces of Textual Data
+
+e Experimented with Gated Recurrent Unit & Long-Short-Term-Memory model (LSTM) on semantic similarity classification
+
+e Trained a two-layered LSTM followed by Fully Connected Network and achieved an accuracy of 83.4% on Glue/MRPC set
+
+e Performed exploratory data analysis,visualization, preprocessing and feature selection for the credit card default dataset
+
+e Experimented with Logistic Regression, K-Neighbours Classifier, Support Vector Classifier(SVC) and Decision Tree Classifier
+
+e Balanced the dataset using SMOTE minority oversampling and achieved the best F1 score of 0.94 on Logistic Regression
+
+e Developed a python script to visualize the various sorting algorithms using libraries such as NumPy, SciPy and Matplotlib
+
+e Implemented a total of 9 famous sorting algorithms like Quick Sort, Merge Sort, etc through an audiovisual presentation
+
+e Created a batch file to generate an animated movie for each sorting algorithm using the ffmpeg package for distribution
+e Majdoors is an organization that is focused on helping migrant workers find jobs through digital modes of communication
+e Provided recommendations to Majdoors on areas of improvement of different verticals based on a competitor analysis
+
+Majdoors","e Core member of the team, facilitating the Placement and Internship process involving 2400 students and 500+ companies
+
+e Mentored a 3-tier 11 member team, responsible for enabling chem core placements, internships and corporate relations
+
+e Witnessed a record 14% increase in full time placement offers; 1612 vs 1491 last year; 9% increase in paid internship offers
+
+CAMSPay
+
+Business Analyst
+Apr 2022 — Aug 2022
+
+Ramco Systems
+
+Business Analyst
+Apr 2021 — Aug 2021
+
+Master’s Thesis
+
+IIT Madras
+Aug 2023 — Present
+
+Text Semantic
+Similarity
+
+Credit Card
+Fraud Detection
+
+Sound of Sorting
+
+Core
+Apr 22 —Apr 23
+
+Coordinator
+Apr 21—Apr 22
+
+e Trained and enabled a team consisting of 4 Deputy Coordinators to constructively anchor the 2021-22 placement season
+e Achieved a record 90% placements with 76 out of 85 undergraduate students placed from the chemical engg department
+
+e Bhumi is one of the India’s largest independent youth volunteer non-profit organisation with chapters present in 14 cities
+e Developed an optimal utilization plan for 20,000 vols by interacting with various stakeholders & conducting a peer analysis",,,"Data Structures and Algorithms Probability, Statistics, Stochastic processes Financial Mathematics Financial Markets
+Computational Techniques Mathematical Foundations of Data Science Machine Learning Principles of Economics
+Languages: Python, C++, MATLAB | Analytics: NumPy, Pandas, Matplotlib, SQL ML: Scikit-learn, TensorFlow | Softwares: MS Office, Tableau","« Developed Block Breaker 2D and Number Wizard games using the powerful Unity Engine 2D and C# Scripting on VS Code
+
+Graphic Design e Intermediate proficiency in Adobe Creative Suite (Premiere Pro, Photoshop, Illustrator, Audition, After Effects) softwares
+ e Actively managing a diversified portfolio of INR 40,000 of equity, mutual funds, ETFs and Gold; with a Rol of 12% per year
+
+| Music e Got selected out of over 100+ candidates to attend National Cultural Appreciation program in the Plectrum Guitar category
+
+180 DC P&I Team",,Indian Institute of Technology Madras
